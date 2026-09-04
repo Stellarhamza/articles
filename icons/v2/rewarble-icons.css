@@ -1,0 +1,270 @@
+@font-face {
+    font-family: "rewarble-icons";
+    src: url("/icons/v2/rewarble-icons.ttf") format("truetype"),
+url("/icons/v2/rewarble-icons.ttf") format("woff"),
+url("/icons/v2/rewarble-icons.ttf") format("woff2");
+}
+
+i[class^="rewarble-icons-"]:before, i[class*=" rewarble-icons-"]:before {
+    font-family: rewarble-icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.rewarble-icons-xmark:before {
+    content: "\f101";
+}
+.rewarble-icons-wallet:before {
+    content: "\f102";
+}
+.rewarble-icons-wallet-plus:before {
+    content: "\f103";
+}
+.rewarble-icons-users:before {
+    content: "\f104";
+}
+.rewarble-icons-user-heart:before {
+    content: "\f105";
+}
+.rewarble-icons-user-alt-1:before {
+    content: "\f106";
+}
+.rewarble-icons-turn-off:before {
+    content: "\f107";
+}
+.rewarble-icons-switch-horizontal:before {
+    content: "\f108";
+}
+.rewarble-icons-stars:before {
+    content: "\f109";
+}
+.rewarble-icons-signs-post:before {
+    content: "\f10a";
+}
+.rewarble-icons-shop:before {
+    content: "\f10b";
+}
+.rewarble-icons-shield-check:before {
+    content: "\f10c";
+}
+.rewarble-icons-search:before {
+    content: "\f10d";
+}
+.rewarble-icons-search-alt-2:before {
+    content: "\f10e";
+}
+.rewarble-icons-rocket:before {
+    content: "\f10f";
+}
+.rewarble-icons-refresh-ccw-clock:before {
+    content: "\f110";
+}
+.rewarble-icons-refresh-ccw-alt:before {
+    content: "\f111";
+}
+.rewarble-icons-refresh-ccw-alt-3:before {
+    content: "\f112";
+}
+.rewarble-icons-pound-circle:before {
+    content: "\f113";
+}
+.rewarble-icons-pencil:before {
+    content: "\f114";
+}
+.rewarble-icons-message-circle-exclamation:before {
+    content: "\f115";
+}
+.rewarble-icons-message-circle-dots:before {
+    content: "\f116";
+}
+.rewarble-icons-message-circle-chat:before {
+    content: "\f117";
+}
+.rewarble-icons-menu:before {
+    content: "\f118";
+}
+.rewarble-icons-lock:before {
+    content: "\f119";
+}
+.rewarble-icons-list-check:before {
+    content: "\f11a";
+}
+.rewarble-icons-id-card:before {
+    content: "\f11b";
+}
+.rewarble-icons-hourglass-half:before {
+    content: "\f11c";
+}
+.rewarble-icons-globe-alt:before {
+    content: "\f11d";
+}
+.rewarble-icons-glasses:before {
+    content: "\f11e";
+}
+.rewarble-icons-gift-card:before {
+    content: "\f11f";
+}
+.rewarble-icons-gift-alt:before {
+    content: "\f120";
+}
+.rewarble-icons-file-copy:before {
+    content: "\f121";
+}
+.rewarble-icons-eye:before {
+    content: "\f122";
+}
+.rewarble-icons-euro-circle:before {
+    content: "\f123";
+}
+.rewarble-icons-dollar-circle-list:before {
+    content: "\f124";
+}
+.rewarble-icons-credit-card:before {
+    content: "\f125";
+}
+.rewarble-icons-clock-three:before {
+    content: "\f126";
+}
+.rewarble-icons-clock-lines:before {
+    content: "\f127";
+}
+.rewarble-icons-circle:before {
+    content: "\f128";
+}
+.rewarble-icons-circle-xmark:before {
+    content: "\f129";
+}
+.rewarble-icons-circle-user:before {
+    content: "\f12a";
+}
+.rewarble-icons-circle-plus:before {
+    content: "\f12b";
+}
+.rewarble-icons-circle-pause:before {
+    content: "\f12c";
+}
+.rewarble-icons-circle-information:before {
+    content: "\f12d";
+}
+.rewarble-icons-circle-dollar:before {
+    content: "\f12e";
+}
+.rewarble-icons-chevron-up:before {
+    content: "\f12f";
+}
+.rewarble-icons-chevron-selector-vertical:before {
+    content: "\f130";
+}
+.rewarble-icons-chevron-right:before {
+    content: "\f131";
+}
+.rewarble-icons-chevron-down:before {
+    content: "\f132";
+}
+.rewarble-icons-check:before {
+    content: "\f133";
+}
+.rewarble-icons-certificate-check:before {
+    content: "\f134";
+}
+.rewarble-icons-bug:before {
+    content: "\f135";
+}
+.rewarble-icons-bag-shopping:before {
+    content: "\f136";
+}
+.rewarble-icons-badge-percent:before {
+    content: "\f137";
+}
+.rewarble-icons-badge-check:before {
+    content: "\f138";
+}
+.rewarble-icons-arrow-up-right-from-square:before {
+    content: "\f139";
+}
+.rewarble-icons-arrow-right-from-bracket:before {
+    content: "\f13a";
+}
+.rewarble-icons-address-book:before {
+    content: "\f13b";
+}
+.rewarble-icons-shield-exclamation:before {
+    content: "\f13c";
+}
+.rewarble-icons-chevron-left:before {
+    content: "\f13d";
+}
+.rewarble-icons-trash:before {
+    content: "\f13e";
+}
+.rewarble-icons-memo-pencil:before {
+    content: "\f13f";
+}
+.rewarble-icons-headphones:before {
+    content: "\f140";
+}
+.rewarble-icons-gaming-pad-alt-1:before {
+    content: "\f141";
+}
+.rewarble-icons-fork-knife:before {
+    content: "\f142";
+}
+.rewarble-icons-cart-shopping:before {
+    content: "\f143";
+}
+.rewarble-icons-triangle-exclamation:before {
+    content: "\f144";
+}
+.rewarble-icons-file-xmark-alt-1:before {
+    content: "\f145";
+}
+.rewarble-icons-file-check-alt-1:before {
+    content: "\f146";
+}
+.rewarble-icons-file-arrow-up-alt-1:before {
+    content: "\f147";
+}
+.rewarble-icons-circle-check:before {
+    content: "\f148";
+}
+.rewarble-icons-mail-check:before {
+    content: "\f149";
+}
+.rewarble-icons-download:before {
+    content: "\f14a";
+}
+.rewarble-icons-globe:before {
+    content: "\f14b";
+}
+.rewarble-icons-ticket-simple:before {
+    content: "\f14c";
+}
+.rewarble-icons-location-pin:before {
+    content: "\f14d";
+}
+.rewarble-icons-english-to-chinese:before {
+    content: "\f14e";
+}
+.rewarble-icons-coin-alt:before {
+    content: "\f14f";
+}
+.rewarble-icons-rotate-cw:before {
+    content: "\f150";
+}
+.rewarble-icons-globe-dollar:before {
+    content: "\f151";
+}
+.rewarble-icons-credit-card-plus:before {
+    content: "\f152";
+}
+.rewarble-icons-calendar:before {
+    content: "\f153";
+}
+.rewarble-icons-arrow-up-from-bracket:before {
+    content: "\f154";
+}

@@ -1,0 +1,576 @@
+[
+  {
+    "slug": "escape-from-tarkov",
+    "href": "/escape-from-tarkov",
+    "name": "Escape from Tarkov",
+    "img": "/cs/uploads/202508/phpollxon_split_escape_from_tarkov.jpg",
+    "gif": "/cs/uploads/202509/php16osmi_split_eft.gif"
+  },
+  {
+    "slug": "rust",
+    "href": "/rust",
+    "name": "RUST",
+    "img": "/cs/uploads/202508/phpzm4rtl_split_rust.jpg",
+    "gif": "/cs/uploads/202509/phpp8qrxe_split_rust.gif"
+  },
+  {
+    "slug": "dayz",
+    "href": "/dayz",
+    "name": "DayZ",
+    "img": "/cs/uploads/202508/phpwwohth_split_dayz_cheats.jpg",
+    "gif": "/cs/uploads/202509/phpnttn2h_split_dayz.gif"
+  },
+  {
+    "slug": "pubg",
+    "href": "/pubg",
+    "name": "PUBG",
+    "img": "/cs/uploads/202508/phpjwcwon_split_pubg_cheats.jpg",
+    "gif": "/cs/uploads/202509/phpybio0q_split_pubg.gif"
+  },
+  {
+    "slug": "battlefield-6",
+    "href": "/battlefield-6",
+    "name": "Battlefield 6",
+    "img": "/cs/uploads/202512/phpnhvbo3_split_666.jpg",
+    "gif": "/cs/uploads/202512/battlefield6.gif"
+  },
+  {
+    "slug": "koboom",
+    "href": "/koboom",
+    "name": "KoBoom",
+    "img": "/cs/uploads/202510/phpb9urod_split_koboom_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "call-of-duty-black-ops-7",
+    "href": "/call-of-duty-black-ops-7",
+    "name": "Call of Duty: Black Ops 7",
+    "img": "/cs/uploads/202510/phpj46zur_split_cod_bo7_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "roblox",
+    "href": "/roblox",
+    "name": "Roblox",
+    "img": "/cs/uploads/202510/phpyv8yck_split_roblox_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "duet-night-abyss",
+    "href": "/duet-night-abyss",
+    "name": "Duet Night Abyss",
+    "img": "/cs/uploads/202511/phpedzpb3_split_duet_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "pioneers-of-pagonia",
+    "href": "/pioneers-of-pagonia",
+    "name": "Pioneers of Pagonia",
+    "img": "/cs/uploads/202511/phpknyofl_split_pioner_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "team-fortress-2",
+    "href": "/team-fortress-2",
+    "name": "Team Fortress 2",
+    "img": "/cs/uploads/202512/phpix83xi_split_tf2_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "brawlhalla",
+    "href": "/brawlhalla",
+    "name": "Brawlhalla",
+    "img": "/cs/uploads/202512/phpl8mkbt_split_brawlh_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "hytale",
+    "href": "/hytale",
+    "name": "Hytale",
+    "img": "/cs/uploads/202601/php7vwjql_split_hytale_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "megabonk",
+    "href": "/megabonk",
+    "name": "Megabonk",
+    "img": "/cs/uploads/202601/phpwwdbzc_split_megabonk_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "company-of-heroes-3",
+    "href": "/company-of-heroes-3",
+    "name": "Company of Heroes 3",
+    "img": "/cs/uploads/202602/php2h4rd7_split_company_hero_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "marathon",
+    "href": "/marathon",
+    "name": "Marathon",
+    "img": "/cs/uploads/202602/php9vf9cf_split_marathon_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "7-days-to-die",
+    "href": "/7-days-to-die",
+    "name": "7 Days to Die",
+    "img": "/cs/uploads/202602/phpbf8npx_split_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "humanitz",
+    "href": "/humanitz",
+    "name": "HumanitZ",
+    "img": "/cs/uploads/202602/phpiecrzz_split_katalog_humanitz.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "the-division-2",
+    "href": "/the-division-2",
+    "name": "The Division 2",
+    "img": "/cs/uploads/202603/php6fty7a_split_division2_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "russian-fishing-4",
+    "href": "/russian-fishing-4",
+    "name": "Russian Fishing 4",
+    "img": "/cs/uploads/202603/phpwc8yi9_split_ru_fish_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "the-seven-deadly-sins",
+    "href": "/the-seven-deadly-sins",
+    "name": "The Seven Deadly Sins: Grand Cross",
+    "img": "/cs/uploads/202605/php0tc0oy_split_the_seven_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "neverness-to-everness",
+    "href": "/neverness-to-everness",
+    "name": "Neverness to Everness",
+    "img": "/cs/uploads/202605/php2bupsa_split_nte_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "mongil-star-dive",
+    "href": "/mongil-star-dive",
+    "name": "Mongil: Star Dive",
+    "img": "/cs/uploads/202605/phpff3kt5_split_mongil_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "windrose",
+    "href": "/windrose",
+    "name": "Windrose",
+    "img": "/cs/uploads/202605/phprgvl8p_split_windrose_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "ark-survival-ascended",
+    "href": "/ark-survival-ascended",
+    "name": "ARK: Survival Ascended",
+    "img": "/cs/uploads/202605/phpwnlutl_split_ark_endf_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "vostok",
+    "href": "/vostok",
+    "name": "Vostok",
+    "img": "/cs/uploads/202606/phpaivxiq_split_vostok_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "mecha-break",
+    "href": "/mecha-break",
+    "name": "Mecha BREAK",
+    "img": "/cs/uploads/202607/phpjgwisf_split_meccha_chameleon_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "sand",
+    "href": "/sand",
+    "name": "SAND",
+    "img": "/cs/uploads/202607/phpvd5yvv_split_sand_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "cod-bocw",
+    "href": "/cod-bocw",
+    "name": "Call of Duty: Black Ops Cold War",
+    "img": "/cs/uploads/202402/phpsmx3fu_split_cod_bocw_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "rocket",
+    "href": "/rocket",
+    "name": "Rocket",
+    "img": "/cs/uploads/202402/phpvudesf_split_rocket_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "realm",
+    "href": "/realm",
+    "name": "Realm",
+    "img": "/cs/uploads/202402/phpyqtrxu_split_realm_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "swbf",
+    "href": "/swbf",
+    "name": "Star Wars Battlefront",
+    "img": "/cs/uploads/202403/php48stkg_split_swbf_w_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "titanfall2",
+    "href": "/titanfall2",
+    "name": "Titanfall2",
+    "img": "/cs/uploads/202403/phpcwy2ac_split_titanfall2_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "wows",
+    "href": "/wows",
+    "name": "World of Warships",
+    "img": "/cs/uploads/202403/phpegxbxa_split_wows_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "halo",
+    "href": "/halo",
+    "name": "Halo",
+    "img": "/cs/uploads/202403/phpi8kcqr_split_halo_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "hd2",
+    "href": "/hd2",
+    "name": "Helldivers 2",
+    "img": "/cs/uploads/202403/phpj51yc5_split_hd2_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "starship",
+    "href": "/starship",
+    "name": "Starship Troopers",
+    "img": "/cs/uploads/202403/phprium9q_split_starship_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "insurge",
+    "href": "/insurge",
+    "name": "Insurgency: Sandstorm",
+    "img": "/cs/uploads/202403/phpukcgsn_split_insurge_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "moe",
+    "href": "/moe",
+    "name": "Moe",
+    "img": "/cs/uploads/202403/phpvduniv_split_moe_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "six-day-ful",
+    "href": "/six-day-ful",
+    "name": "Six Days in Fallujah",
+    "img": "/cs/uploads/202404/php8sestf_split_six_day_ful_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "tptr",
+    "href": "/tptr",
+    "name": "Teamfight Tactics",
+    "img": "/cs/uploads/202404/phped53u3_split_tptr_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "atlas",
+    "href": "/atlas",
+    "name": "Atlas",
+    "img": "/cs/uploads/202404/phpl8tn9d_split_atlas_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "isle",
+    "href": "/isle",
+    "name": "Isle",
+    "img": "/cs/uploads/202404/phpwwouuv_split_isle_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "conan",
+    "href": "/conan",
+    "name": "Conan",
+    "img": "/cs/uploads/202404/phpwyc3bn_split_conan_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "wunthering",
+    "href": "/wunthering",
+    "name": "Wuthering Waves",
+    "img": "/cs/uploads/202405/php2qaa9d_split_wunthering_w_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "wot-blitz",
+    "href": "/wot-blitz",
+    "name": "World of Tanks Blitz",
+    "img": "/cs/uploads/202405/phpkt8mmk_split_wot_blitz_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "gray-zone",
+    "href": "/gray-zone",
+    "name": "Gray Zone",
+    "img": "/cs/uploads/202405/phpqmglss_split_gray_zone_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "chess",
+    "href": "/chess",
+    "name": "Chess",
+    "img": "/cs/uploads/202405/phpyauzz2_split_chess_katalog_1.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "gray-zone-warfare",
+    "href": "/gray-zone-warfare",
+    "name": "Gray Zone Warfare",
+    "img": "/cs/uploads/202406/php9gpvpu_split_kkfos_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "bodycam",
+    "href": "/bodycam",
+    "name": "Bodycam",
+    "img": "/cs/uploads/202406/phpasc04g_split_bodycam_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "once-human",
+    "href": "/once-human",
+    "name": "Once Human",
+    "img": "/cs/uploads/202406/phpdyqm3l_split_once_humen_katalogn.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "l33t-ragemp",
+    "href": "/l33t-ragemp",
+    "name": "Rage MP",
+    "img": "/cs/uploads/202406/phpg0a1s2_split_l33t_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "predecessor",
+    "href": "/predecessor",
+    "name": "Predecessor",
+    "img": "/cs/uploads/202406/phpwavqqx_split_predecessor_katalogh.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "the-first-descendant",
+    "href": "/the-first-descendant",
+    "name": "The First Descendant",
+    "img": "/cs/uploads/202407/phpxg3qdp_split_tfd_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "zenless-zone-zero",
+    "href": "/zenless-zone-zero",
+    "name": "Zenless Zone Zero",
+    "img": "/cs/uploads/202407/phpys5xq0_split_zenless_zone_zero_katalog1.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "deadlock",
+    "href": "/deadlock",
+    "name": "Deadlock",
+    "img": "/cs/uploads/202408/phptsq9ok_split_deadlock_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "sa-mp",
+    "href": "/sa-mp",
+    "name": "SA-MP",
+    "img": "/cs/uploads/202408/phpu46ji2_split_samp_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "duckside",
+    "href": "/duckside",
+    "name": "Duckside",
+    "img": "/cs/uploads/202410/php0cpa1e_split_duckside_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "snowbreak-containment-zone",
+    "href": "/snowbreak-containment-zone",
+    "name": "Snowbreak: Containment Zone",
+    "img": "/cs/uploads/202410/php2htyon_split_snowbreak_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "level-zero",
+    "href": "/level-zero",
+    "name": "Level Zero",
+    "img": "/cs/uploads/202410/phpcgv1cq_split_level_zero_ext_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "off-the-grid",
+    "href": "/off-the-grid",
+    "name": "Off the Grid",
+    "img": "/cs/uploads/202410/phpchz5bw_split_off_the_grid_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "black-desert-mobile",
+    "href": "/black-desert-mobile",
+    "name": "Black Desert Mobile",
+    "img": "/cs/uploads/202410/phphd96eq_split_blaack_desert_mob_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "diablo-iv",
+    "href": "/diablo-iv",
+    "name": "Diablo IV",
+    "img": "/cs/uploads/202410/phpk3lt16_split_diablo_4_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "tarisland",
+    "href": "/tarisland",
+    "name": "Tarisland",
+    "img": "/cs/uploads/202410/phpshkugi_split_tarisland_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "ea-sports-fc",
+    "href": "/ea-sports-fc",
+    "name": "EA Sports FC",
+    "img": "/cs/uploads/202410/phpvernbu_split_ea_fc_all_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "honor-of-kings",
+    "href": "/honor-of-kings",
+    "name": "Honor of Kings",
+    "img": "/cs/uploads/202410/phpwdcazd_split_honor_of_king_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "maplestory-m",
+    "href": "/maplestory-m",
+    "name": "MapleStory M",
+    "img": "/cs/uploads/202410/phpzqy4ix_split_maplestorym_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "marvel-rivals",
+    "href": "/marvel-rivals",
+    "name": "Marvel Rivals",
+    "img": "/cs/uploads/202412/phpxtb9jl_split_marverl_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "left-4-dead-2",
+    "href": "/left-4-dead-2",
+    "name": "Left 4 Dead 2",
+    "img": "/cs/uploads/202501/phpgufwbu_split_l4d2_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "arma-reforger",
+    "href": "/arma-reforger",
+    "name": "Arma Reforger",
+    "img": "/cs/uploads/202502/phpkajsur_split_arma_refor_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "cs-1-6",
+    "href": "/cs-1-6",
+    "name": "CS 1.6",
+    "img": "/cs/uploads/202502/phpombgvj_split_cs16_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "fragpunk",
+    "href": "/fragpunk",
+    "name": "FragPunk",
+    "img": "/cs/uploads/202503/phpbemja4_split_fragpunk_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "point-blank",
+    "href": "/point-blank",
+    "name": "Point Blank",
+    "img": "/cs/uploads/202503/phpisowsd_split_point_blank_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "path-of-exile-2",
+    "href": "/path-of-exile-2",
+    "name": "Path of Exile 2",
+    "img": "/cs/uploads/202504/phpimmoeq_split_poe2_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "last-epoch",
+    "href": "/last-epoch",
+    "name": "Last Epoch",
+    "img": "/cs/uploads/202504/phpixge6t_split_laste[och_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "8-ball-pool",
+    "href": "/8-ball-pool",
+    "name": "8 Ball Pool",
+    "img": "/cs/uploads/202504/phpufuo3j_split_8ball_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "free-fire",
+    "href": "/free-fire",
+    "name": "Free Fire",
+    "img": "/cs/uploads/202505/phprp9q7t_split_freefire_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "arc-raiders",
+    "href": "/arc-raiders",
+    "name": "ARC Raiders",
+    "img": "/cs/uploads/202505/phpu4fwcl_split_arcraiders_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "etheria-restart",
+    "href": "/etheria-restart",
+    "name": "Etheria Restart",
+    "img": "/cs/uploads/202506/php4a5zno_split_etheria_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "foxhole",
+    "href": "/foxhole",
+    "name": "Foxhole",
+    "img": "/cs/uploads/202506/phpacfb1w_split_foxhole_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "steel-hunters",
+    "href": "/steel-hunters",
+    "name": "Steel Hunters",
+    "img": "/cs/uploads/202506/phpfjza3y_split_steel_hunters_katalog.jpg",
+    "gif": ""
+  },
+  {
+    "slug": "rematch",
+    "href": "/rematch",
+    "name": "Rematch",
+    "img": "/cs/uploads/202506/phpkadakg_split_rematch_katalog.jpg",
+    "gif": ""
+  }
+]

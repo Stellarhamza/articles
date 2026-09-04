@@ -1,0 +1,33 @@
+{
+  "name": "Game Cheats Catalog",
+  "short_name": "Cheats",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png?v=saturn1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png?v=saturn1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/web-app-manifest-192x192.png?v=saturn1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png?v=saturn1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#090819",
+  "background_color": "#090819",
+  "display": "standalone"
+}

@@ -1,0 +1,494 @@
+{
+  "escape-from-tarkov": {
+    "name": "Escape from Tarkov",
+    "zadeyo": "https://zadeyo.com/products/escape-from-tarkov-cheats",
+    "img": "/cs/uploads/202508/phpollxon_split_escape_from_tarkov.jpg",
+    "gif": "/cs/uploads/202509/php16osmi_split_eft.gif"
+  },
+  "rust": {
+    "name": "RUST",
+    "zadeyo": "https://zadeyo.com/products/rust-cheats",
+    "img": "/cs/uploads/202508/phpzm4rtl_split_rust.jpg",
+    "gif": "/cs/uploads/202509/phpp8qrxe_split_rust.gif"
+  },
+  "dayz": {
+    "name": "DayZ",
+    "zadeyo": "https://zadeyo.com/products/dayz-cheats",
+    "img": "/cs/uploads/202508/phpwwohth_split_dayz_cheats.jpg",
+    "gif": "/cs/uploads/202509/phpnttn2h_split_dayz.gif"
+  },
+  "pubg": {
+    "name": "PUBG",
+    "zadeyo": "https://zadeyo.com/products/pubg-cheats",
+    "img": "/cs/uploads/202508/phpjwcwon_split_pubg_cheats.jpg",
+    "gif": "/cs/uploads/202509/phpybio0q_split_pubg.gif"
+  },
+  "battlefield-6": {
+    "name": "Battlefield 6",
+    "zadeyo": "https://zadeyo.com/products/BF6-cheats",
+    "img": "/cs/uploads/202512/phpnhvbo3_split_666.jpg",
+    "gif": "/cs/uploads/202512/battlefield6.gif"
+  },
+  "koboom": {
+    "name": "KoBoom",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202510/phpb9urod_split_koboom_katalog.jpg",
+    "gif": ""
+  },
+  "call-of-duty-black-ops-7": {
+    "name": "Call of Duty: Black Ops 7",
+    "zadeyo": "https://zadeyo.com/products/warzone-cheats",
+    "img": "/cs/uploads/202510/phpj46zur_split_cod_bo7_katalog.jpg",
+    "gif": ""
+  },
+  "roblox": {
+    "name": "Roblox",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202510/phpyv8yck_split_roblox_katalog.jpg",
+    "gif": ""
+  },
+  "duet-night-abyss": {
+    "name": "Duet Night Abyss",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202511/phpedzpb3_split_duet_katalog.jpg",
+    "gif": ""
+  },
+  "pioneers-of-pagonia": {
+    "name": "Pioneers of Pagonia",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202511/phpknyofl_split_pioner_katalog.jpg",
+    "gif": ""
+  },
+  "team-fortress-2": {
+    "name": "Team Fortress 2",
+    "zadeyo": "https://zadeyo.com/products/team-fortress-2-cheats",
+    "img": "/cs/uploads/202512/phpix83xi_split_tf2_katalog.jpg",
+    "gif": ""
+  },
+  "brawlhalla": {
+    "name": "Brawlhalla",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202512/phpl8mkbt_split_brawlh_katalog.jpg",
+    "gif": ""
+  },
+  "hytale": {
+    "name": "Hytale",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202601/php7vwjql_split_hytale_katalog.jpg",
+    "gif": ""
+  },
+  "megabonk": {
+    "name": "Megabonk",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202601/phpwwdbzc_split_megabonk_katalog.jpg",
+    "gif": ""
+  },
+  "company-of-heroes-3": {
+    "name": "Company of Heroes 3",
+    "zadeyo": "https://zadeyo.com/products/company-of-heroes-3-cheats",
+    "img": "/cs/uploads/202602/php2h4rd7_split_company_hero_katalog.jpg",
+    "gif": ""
+  },
+  "marathon": {
+    "name": "Marathon",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202602/php9vf9cf_split_marathon_katalog.jpg",
+    "gif": ""
+  },
+  "7-days-to-die": {
+    "name": "7 Days to Die",
+    "zadeyo": "https://zadeyo.com/products/7-days-to-die-cheats",
+    "img": "/cs/uploads/202602/phpbf8npx_split_katalog.jpg",
+    "gif": ""
+  },
+  "humanitz": {
+    "name": "HumanitZ",
+    "zadeyo": "https://zadeyo.com/products/humanitz-cheats",
+    "img": "/cs/uploads/202602/phpiecrzz_split_katalog_humanitz.jpg",
+    "gif": ""
+  },
+  "the-division-2": {
+    "name": "The Division 2",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202603/php6fty7a_split_division2_katalog.jpg",
+    "gif": ""
+  },
+  "russian-fishing-4": {
+    "name": "Russian Fishing 4",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202603/phpwc8yi9_split_ru_fish_katalog.jpg",
+    "gif": ""
+  },
+  "the-seven-deadly-sins": {
+    "name": "The Seven Deadly Sins: Grand Cross",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202605/php0tc0oy_split_the_seven_katalog.jpg",
+    "gif": ""
+  },
+  "neverness-to-everness": {
+    "name": "Neverness to Everness",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202605/php2bupsa_split_nte_katalog.jpg",
+    "gif": ""
+  },
+  "mongil-star-dive": {
+    "name": "Mongil: Star Dive",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202605/phpff3kt5_split_mongil_katalog.jpg",
+    "gif": ""
+  },
+  "windrose": {
+    "name": "Windrose",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202605/phprgvl8p_split_windrose_katalog.jpg",
+    "gif": ""
+  },
+  "ark-survival-ascended": {
+    "name": "ARK: Survival Ascended",
+    "zadeyo": "https://zadeyo.com/products/ark-ascended-cheats",
+    "img": "/cs/uploads/202605/phpwnlutl_split_ark_endf_katalog.jpg",
+    "gif": ""
+  },
+  "vostok": {
+    "name": "Vostok",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202606/phpaivxiq_split_vostok_katalog.jpg",
+    "gif": ""
+  },
+  "mecha-break": {
+    "name": "Mecha BREAK",
+    "zadeyo": "https://zadeyo.com/products/mecha-break-cheats",
+    "img": "/cs/uploads/202607/phpjgwisf_split_meccha_chameleon_katalog.jpg",
+    "gif": ""
+  },
+  "sand": {
+    "name": "SAND",
+    "zadeyo": "https://zadeyo.com/products/sand-raiders-of-sophie-cheats",
+    "img": "/cs/uploads/202607/phpvd5yvv_split_sand_katalog.jpg",
+    "gif": ""
+  },
+  "cod-bocw": {
+    "name": "Call of Duty: Black Ops Cold War",
+    "zadeyo": "https://zadeyo.com/products/warzone-cheats",
+    "img": "/cs/uploads/202402/phpsmx3fu_split_cod_bocw_katalog.jpg",
+    "gif": ""
+  },
+  "rocket": {
+    "name": "Rocket",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202402/phpvudesf_split_rocket_katalog.jpg",
+    "gif": ""
+  },
+  "realm": {
+    "name": "Realm",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202402/phpyqtrxu_split_realm_katalog.jpg",
+    "gif": ""
+  },
+  "swbf": {
+    "name": "Star Wars Battlefront",
+    "zadeyo": "https://zadeyo.com/products/star-wars-battlefront-2-cheats",
+    "img": "/cs/uploads/202403/php48stkg_split_swbf_w_katalog.jpg",
+    "gif": ""
+  },
+  "titanfall2": {
+    "name": "Titanfall2",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202403/phpcwy2ac_split_titanfall2_katalog.jpg",
+    "gif": ""
+  },
+  "wows": {
+    "name": "World of Warships",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202403/phpegxbxa_split_wows_katalog.jpg",
+    "gif": ""
+  },
+  "halo": {
+    "name": "Halo",
+    "zadeyo": "https://zadeyo.com/products/halo-infinite-cheats",
+    "img": "/cs/uploads/202403/phpi8kcqr_split_halo_katalog.jpg",
+    "gif": ""
+  },
+  "hd2": {
+    "name": "Helldivers 2",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202403/phpj51yc5_split_hd2_katalog.jpg",
+    "gif": ""
+  },
+  "starship": {
+    "name": "Starship Troopers",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202403/phprium9q_split_starship_katalog.jpg",
+    "gif": ""
+  },
+  "insurge": {
+    "name": "Insurgency: Sandstorm",
+    "zadeyo": "https://zadeyo.com/products/insurgency-sandstorm-cheats",
+    "img": "/cs/uploads/202403/phpukcgsn_split_insurge_katalog.jpg",
+    "gif": ""
+  },
+  "moe": {
+    "name": "Moe",
+    "zadeyo": "https://zadeyo.com/products/myth-of-empires-cheats",
+    "img": "/cs/uploads/202403/phpvduniv_split_moe_katalog.jpg",
+    "gif": ""
+  },
+  "six-day-ful": {
+    "name": "Six Days in Fallujah",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202404/php8sestf_split_six_day_ful_katalog.jpg",
+    "gif": ""
+  },
+  "tptr": {
+    "name": "Teamfight Tactics",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202404/phped53u3_split_tptr_katalog.jpg",
+    "gif": ""
+  },
+  "atlas": {
+    "name": "Atlas",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202404/phpl8tn9d_split_atlas_katalog.jpg",
+    "gif": ""
+  },
+  "isle": {
+    "name": "Isle",
+    "zadeyo": "https://zadeyo.com/products/the-isle-novaxware-cheats",
+    "img": "/cs/uploads/202404/phpwwouuv_split_isle_katalog.jpg",
+    "gif": ""
+  },
+  "conan": {
+    "name": "Conan",
+    "zadeyo": "https://zadeyo.com/products/conan-exiles-cheats",
+    "img": "/cs/uploads/202404/phpwyc3bn_split_conan_katalog.jpg",
+    "gif": ""
+  },
+  "wunthering": {
+    "name": "Wuthering Waves",
+    "zadeyo": "https://zadeyo.com/products/wuthering-waves-cheats",
+    "img": "/cs/uploads/202405/php2qaa9d_split_wunthering_w_katalog.jpg",
+    "gif": ""
+  },
+  "wot-blitz": {
+    "name": "World of Tanks Blitz",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202405/phpkt8mmk_split_wot_blitz_katalog.jpg",
+    "gif": ""
+  },
+  "gray-zone": {
+    "name": "Gray Zone",
+    "zadeyo": "https://zadeyo.com/products/gray-zone-warfare-cheats",
+    "img": "/cs/uploads/202405/phpqmglss_split_gray_zone_katalog.jpg",
+    "gif": ""
+  },
+  "chess": {
+    "name": "Chess",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202405/phpyauzz2_split_chess_katalog_1.jpg",
+    "gif": ""
+  },
+  "gray-zone-warfare": {
+    "name": "Gray Zone Warfare",
+    "zadeyo": "https://zadeyo.com/products/gray-zone-warfare-cheats",
+    "img": "/cs/uploads/202406/php9gpvpu_split_kkfos_katalog.jpg",
+    "gif": ""
+  },
+  "bodycam": {
+    "name": "Bodycam",
+    "zadeyo": "https://zadeyo.com/products/bodycam-cheats",
+    "img": "/cs/uploads/202406/phpasc04g_split_bodycam_katalog.jpg",
+    "gif": ""
+  },
+  "once-human": {
+    "name": "Once Human",
+    "zadeyo": "https://zadeyo.com/products/once-human-cheats",
+    "img": "/cs/uploads/202406/phpdyqm3l_split_once_humen_katalogn.jpg",
+    "gif": ""
+  },
+  "l33t-ragemp": {
+    "name": "Rage MP",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202406/phpg0a1s2_split_l33t_katalog.jpg",
+    "gif": ""
+  },
+  "predecessor": {
+    "name": "Predecessor",
+    "zadeyo": "https://zadeyo.com/products/predecessor-cheats",
+    "img": "/cs/uploads/202406/phpwavqqx_split_predecessor_katalogh.jpg",
+    "gif": ""
+  },
+  "the-first-descendant": {
+    "name": "The First Descendant",
+    "zadeyo": "https://zadeyo.com/products/the-first-descendant-cheats",
+    "img": "/cs/uploads/202407/phpxg3qdp_split_tfd_katalog.jpg",
+    "gif": ""
+  },
+  "zenless-zone-zero": {
+    "name": "Zenless Zone Zero",
+    "zadeyo": "https://zadeyo.com/products/zenless-zone-zero-cheats",
+    "img": "/cs/uploads/202407/phpys5xq0_split_zenless_zone_zero_katalog1.jpg",
+    "gif": ""
+  },
+  "deadlock": {
+    "name": "Deadlock",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202408/phptsq9ok_split_deadlock_katalog.jpg",
+    "gif": ""
+  },
+  "sa-mp": {
+    "name": "SA-MP",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202408/phpu46ji2_split_samp_katalog.jpg",
+    "gif": ""
+  },
+  "duckside": {
+    "name": "Duckside",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202410/php0cpa1e_split_duckside_katalog.jpg",
+    "gif": ""
+  },
+  "snowbreak-containment-zone": {
+    "name": "Snowbreak: Containment Zone",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202410/php2htyon_split_snowbreak_katalog.jpg",
+    "gif": ""
+  },
+  "level-zero": {
+    "name": "Level Zero",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202410/phpcgv1cq_split_level_zero_ext_katalog.jpg",
+    "gif": ""
+  },
+  "off-the-grid": {
+    "name": "Off the Grid",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202410/phpchz5bw_split_off_the_grid_katalog.jpg",
+    "gif": ""
+  },
+  "black-desert-mobile": {
+    "name": "Black Desert Mobile",
+    "zadeyo": "https://zadeyo.com/products/black-desert-online-cheats",
+    "img": "/cs/uploads/202410/phphd96eq_split_blaack_desert_mob_katalog.jpg",
+    "gif": ""
+  },
+  "diablo-iv": {
+    "name": "Diablo IV",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202410/phpk3lt16_split_diablo_4_katalog.jpg",
+    "gif": ""
+  },
+  "tarisland": {
+    "name": "Tarisland",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202410/phpshkugi_split_tarisland_katalog.jpg",
+    "gif": ""
+  },
+  "ea-sports-fc": {
+    "name": "EA Sports FC",
+    "zadeyo": "https://zadeyo.com/products/ea-sports-fc-2026-cheats",
+    "img": "/cs/uploads/202410/phpvernbu_split_ea_fc_all_katalog.jpg",
+    "gif": ""
+  },
+  "honor-of-kings": {
+    "name": "Honor of Kings",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202410/phpwdcazd_split_honor_of_king_katalog.jpg",
+    "gif": ""
+  },
+  "maplestory-m": {
+    "name": "MapleStory M",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202410/phpzqy4ix_split_maplestorym_katalog.jpg",
+    "gif": ""
+  },
+  "marvel-rivals": {
+    "name": "Marvel Rivals",
+    "zadeyo": "https://zadeyo.com/products/marvel-rivals-cheats",
+    "img": "/cs/uploads/202412/phpxtb9jl_split_marverl_katalog.jpg",
+    "gif": ""
+  },
+  "left-4-dead-2": {
+    "name": "Left 4 Dead 2",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202501/phpgufwbu_split_l4d2_katalog.jpg",
+    "gif": ""
+  },
+  "arma-reforger": {
+    "name": "Arma Reforger",
+    "zadeyo": "https://zadeyo.com/products/arma-reforger-cheats",
+    "img": "/cs/uploads/202502/phpkajsur_split_arma_refor_katalog.jpg",
+    "gif": ""
+  },
+  "cs-1-6": {
+    "name": "CS 1.6",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202502/phpombgvj_split_cs16_katalog.jpg",
+    "gif": ""
+  },
+  "fragpunk": {
+    "name": "FragPunk",
+    "zadeyo": "https://zadeyo.com/products/fragpunk-novaxware-cheats",
+    "img": "/cs/uploads/202503/phpbemja4_split_fragpunk_katalog.jpg",
+    "gif": ""
+  },
+  "point-blank": {
+    "name": "Point Blank",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202503/phpisowsd_split_point_blank_katalog.jpg",
+    "gif": ""
+  },
+  "path-of-exile-2": {
+    "name": "Path of Exile 2",
+    "zadeyo": "https://zadeyo.com/products/path-of-exile-cheats",
+    "img": "/cs/uploads/202504/phpimmoeq_split_poe2_katalog.jpg",
+    "gif": ""
+  },
+  "last-epoch": {
+    "name": "Last Epoch",
+    "zadeyo": "https://zadeyo.com/products/last-epoch-cheats",
+    "img": "/cs/uploads/202504/phpixge6t_split_laste[och_katalog.jpg",
+    "gif": ""
+  },
+  "8-ball-pool": {
+    "name": "8 Ball Pool",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202504/phpufuo3j_split_8ball_katalog.jpg",
+    "gif": ""
+  },
+  "free-fire": {
+    "name": "Free Fire",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202505/phprp9q7t_split_freefire_katalog.jpg",
+    "gif": ""
+  },
+  "arc-raiders": {
+    "name": "ARC Raiders",
+    "zadeyo": "https://zadeyo.com/products/arc-raiders-cheats",
+    "img": "/cs/uploads/202505/phpu4fwcl_split_arcraiders_katalog.jpg",
+    "gif": ""
+  },
+  "etheria-restart": {
+    "name": "Etheria Restart",
+    "zadeyo": "https://zadeyo.com/products/etheria-restart-novaxware-cheats",
+    "img": "/cs/uploads/202506/php4a5zno_split_etheria_katalog.jpg",
+    "gif": ""
+  },
+  "foxhole": {
+    "name": "Foxhole",
+    "zadeyo": "https://zadeyo.com/products/foxhole-novaxware-cheats",
+    "img": "/cs/uploads/202506/phpacfb1w_split_foxhole_katalog.jpg",
+    "gif": ""
+  },
+  "steel-hunters": {
+    "name": "Steel Hunters",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202506/phpfjza3y_split_steel_hunters_katalog.jpg",
+    "gif": ""
+  },
+  "rematch": {
+    "name": "Rematch",
+    "zadeyo": "https://zadeyo.com/shop",
+    "img": "/cs/uploads/202506/phpkadakg_split_rematch_katalog.jpg",
+    "gif": ""
+  }
+}

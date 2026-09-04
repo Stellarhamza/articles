@@ -1,0 +1,1451 @@
+{
+  "escape-from-tarkov": {
+    "category": "https://wh-satano.ru/en/cheats/escape_from_tarkov",
+    "hero": "/images/satano/escape-from-tarkov/hero.webp",
+    "versions": [
+      {
+        "slug": "ancient",
+        "title": "Ancient Chams Tarkov Software (EFT)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/ancient",
+        "image": "/images/satano/escape-from-tarkov/ancient.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/ancient_2.webp",
+          "/images/satano/escape-from-tarkov/ancient_3.webp",
+          "/images/satano/escape-from-tarkov/ancient_4.webp"
+        ]
+      },
+      {
+        "slug": "ancient-full",
+        "title": "Ancient Full Software for Escape from Tarkov (EFT)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/ancient-full",
+        "image": "/images/satano/escape-from-tarkov/ancient-full.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/ancient-full_2.webp",
+          "/images/satano/escape-from-tarkov/ancient-full_3.webp",
+          "/images/satano/escape-from-tarkov/ancient-full_4.webp"
+        ]
+      },
+      {
+        "slug": "chams",
+        "title": "EFT Chams (Stealth Chams Tarkov)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/chams",
+        "image": "/images/satano/escape-from-tarkov/chams.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/chams_2.webp",
+          "/images/satano/escape-from-tarkov/chams_3.webp",
+          "/images/satano/escape-from-tarkov/chams_4.webp"
+        ]
+      },
+      {
+        "slug": "collapse",
+        "title": "Collapse for Escape from Tarkov (EFT Collapse)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/collapse",
+        "image": "/images/satano/escape-from-tarkov/collapse.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/collapse_2.webp",
+          "/images/satano/escape-from-tarkov/collapse_3.webp",
+          "/images/satano/escape-from-tarkov/collapse_4.webp"
+        ]
+      },
+      {
+        "slug": "covcheg",
+        "title": "Covcheg Software for Escape from Tarkov (EFT)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/covcheg",
+        "image": "/images/satano/escape-from-tarkov/covcheg.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/covcheg_2.webp",
+          "/images/satano/escape-from-tarkov/covcheg_3.webp",
+          "/images/satano/escape-from-tarkov/covcheg_4.webp"
+        ]
+      },
+      {
+        "slug": "crusader",
+        "title": "Crusader Hack for EFT (Balanced EFT Soft)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/crusader",
+        "image": "/images/satano/escape-from-tarkov/crusader.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/crusader_2.webp",
+          "/images/satano/escape-from-tarkov/crusader_3.webp",
+          "/images/satano/escape-from-tarkov/crusader_4.webp"
+        ]
+      },
+      {
+        "slug": "fecurity",
+        "title": "Fecurity Software for Escape From Tarkov (EFT)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/fecurity",
+        "image": "/images/satano/escape-from-tarkov/fecurity.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/fecurity_2.webp",
+          "/images/satano/escape-from-tarkov/fecurity_3.webp",
+          "/images/satano/escape-from-tarkov/fecurity_4.webp"
+        ]
+      },
+      {
+        "slug": "mason",
+        "title": "Mason Software for Escape from Tarkov (EFT)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/mason",
+        "image": "/images/satano/escape-from-tarkov/mason.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/mason_2.webp",
+          "/images/satano/escape-from-tarkov/mason_3.webp",
+          "/images/satano/escape-from-tarkov/mason_4.webp"
+        ]
+      },
+      {
+        "slug": "medusa_lite",
+        "title": "Medusa Lite for EFT",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/medusa_lite",
+        "image": "/images/satano/escape-from-tarkov/medusa_lite.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/medusa_lite_2.webp",
+          "/images/satano/escape-from-tarkov/medusa_lite_3.webp",
+          "/images/satano/escape-from-tarkov/medusa_lite_4.webp"
+        ]
+      },
+      {
+        "slug": "medusa_rage",
+        "title": "Medusa Rage EFT Software",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/medusa_rage",
+        "image": "/images/satano/escape-from-tarkov/medusa_rage.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/medusa_rage_2.webp",
+          "/images/satano/escape-from-tarkov/medusa_rage_3.webp",
+          "/images/satano/escape-from-tarkov/medusa_rage_4.webp"
+        ]
+      },
+      {
+        "slug": "radar",
+        "title": "Radar Cheat for Escape From Tarkov (EFT)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/radar",
+        "image": "/images/satano/escape-from-tarkov/radar.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/radar_2.webp",
+          "/images/satano/escape-from-tarkov/radar_3.webp",
+          "/images/satano/escape-from-tarkov/radar_4.webp"
+        ]
+      },
+      {
+        "slug": "sky",
+        "title": "Buy Sky Hack for EFT (Tarkov)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/sky",
+        "image": "/images/satano/escape-from-tarkov/sky.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/sky_2.webp",
+          "/images/satano/escape-from-tarkov/sky_3.webp",
+          "/images/satano/escape-from-tarkov/sky_4.webp"
+        ]
+      },
+      {
+        "slug": "softhub",
+        "title": "Softhub Software for Escape from Tarkov",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/softhub",
+        "image": "/images/satano/escape-from-tarkov/softhub.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/softhub_2.webp",
+          "/images/satano/escape-from-tarkov/softhub_3.webp",
+          "/images/satano/escape-from-tarkov/softhub_4.webp"
+        ]
+      },
+      {
+        "slug": "spoofer",
+        "title": "Spoofer for Escape from Tarkov (EFT Spoofer)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/spoofer",
+        "image": "/images/satano/escape-from-tarkov/spoofer.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/spoofer_2.webp"
+        ]
+      },
+      {
+        "slug": "super",
+        "title": "Auhority EFT Cheat (The Best Tarkov Software)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/super",
+        "image": "/images/satano/escape-from-tarkov/super.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/super_2.webp",
+          "/images/satano/escape-from-tarkov/super_3.webp",
+          "/images/satano/escape-from-tarkov/super_4.webp"
+        ]
+      },
+      {
+        "slug": "unnamed",
+        "title": "Unnamed Internal Software for Escape from Tarkov (EFT)",
+        "url": "https://wh-satano.ru/en/cheats/escape_from_tarkov/unnamed",
+        "image": "/images/satano/escape-from-tarkov/unnamed.webp",
+        "extras": [
+          "/images/satano/escape-from-tarkov/unnamed_2.webp",
+          "/images/satano/escape-from-tarkov/unnamed_3.webp",
+          "/images/satano/escape-from-tarkov/unnamed_4.webp"
+        ]
+      }
+    ]
+  },
+  "rust": {
+    "category": "https://wh-satano.ru/en/cheats/rust",
+    "hero": "/images/satano/rust/hero.webp",
+    "versions": [
+      {
+        "slug": "ancient",
+        "title": "Ancient Cheat for Rust",
+        "url": "https://wh-satano.ru/en/cheats/rust/ancient",
+        "image": "/images/satano/rust/ancient.webp",
+        "extras": [
+          "/images/satano/rust/ancient_2.webp",
+          "/images/satano/rust/ancient_3.webp",
+          "/images/satano/rust/ancient_4.webp"
+        ]
+      },
+      {
+        "slug": "arcane",
+        "title": "Arcane Rust Software",
+        "url": "https://wh-satano.ru/en/cheats/rust/arcane",
+        "image": "/images/satano/rust/arcane.webp",
+        "extras": [
+          "/images/satano/rust/arcane_2.webp",
+          "/images/satano/rust/arcane_3.webp",
+          "/images/satano/rust/arcane_4.webp"
+        ]
+      },
+      {
+        "slug": "bleak",
+        "title": "Bleak External for Rust",
+        "url": "https://wh-satano.ru/en/cheats/rust/bleak",
+        "image": "/images/satano/rust/bleak.webp",
+        "extras": [
+          "/images/satano/rust/bleak_2.webp",
+          "/images/satano/rust/bleak_3.webp",
+          "/images/satano/rust/bleak_4.webp"
+        ]
+      },
+      {
+        "slug": "covcheg",
+        "title": "COVCHEG cheat for RUST",
+        "url": "https://wh-satano.ru/en/cheats/rust/covcheg",
+        "image": "/images/satano/rust/covcheg.webp",
+        "extras": [
+          "/images/satano/rust/covcheg_2.webp",
+          "/images/satano/rust/covcheg_3.webp",
+          "/images/satano/rust/covcheg_4.webp"
+        ]
+      },
+      {
+        "slug": "covcheg-external",
+        "title": "Covcheg Rust External Software",
+        "url": "https://wh-satano.ru/en/cheats/rust/covcheg-external",
+        "image": "/images/satano/rust/covcheg-external.webp",
+        "extras": [
+          "/images/satano/rust/covcheg-external_2.webp",
+          "/images/satano/rust/covcheg-external_3.webp"
+        ]
+      },
+      {
+        "slug": "dullwave",
+        "title": "Dullwave Software for Rust",
+        "url": "https://wh-satano.ru/en/cheats/rust/dullwave",
+        "image": "/images/satano/rust/dullwave.webp",
+        "extras": [
+          "/images/satano/rust/dullwave_2.webp",
+          "/images/satano/rust/dullwave_3.webp",
+          "/images/satano/rust/dullwave_4.webp"
+        ]
+      },
+      {
+        "slug": "mason-full",
+        "title": "Mason Rust Full Software",
+        "url": "https://wh-satano.ru/en/cheats/rust/mason-full",
+        "image": "/images/satano/rust/mason-full.png",
+        "extras": [
+          "/images/satano/rust/mason-full_2.png",
+          "/images/satano/rust/mason-full_3.png",
+          "/images/satano/rust/mason-full_4.png"
+        ]
+      },
+      {
+        "slug": "mason-internal",
+        "title": "Mason Internal Software for Rust",
+        "url": "https://wh-satano.ru/en/cheats/rust/mason-internal",
+        "image": "/images/satano/rust/mason-internal.webp",
+        "extras": [
+          "/images/satano/rust/mason-internal_2.webp",
+          "/images/satano/rust/mason-internal_3.webp",
+          "/images/satano/rust/mason-internal_4.webp"
+        ]
+      }
+    ]
+  },
+  "dayz": {
+    "category": "https://wh-satano.ru/en/cheats/dayz",
+    "hero": "/images/satano/dayz/hero.webp",
+    "versions": [
+      {
+        "slug": "ancient",
+        "title": "Cheat Ancient for Dayz StandAlone",
+        "url": "https://wh-satano.ru/en/cheats/dayz/ancient",
+        "image": "/images/satano/dayz/ancient.webp",
+        "extras": [
+          "/images/satano/dayz/ancient_2.webp",
+          "/images/satano/dayz/ancient_3.webp",
+          "/images/satano/dayz/ancient_4.webp"
+        ]
+      },
+      {
+        "slug": "arcane",
+        "title": "Arcane Cheat for Dayz",
+        "url": "https://wh-satano.ru/en/cheats/dayz/arcane",
+        "image": "/images/satano/dayz/arcane.webp",
+        "extras": [
+          "/images/satano/dayz/arcane_2.webp",
+          "/images/satano/dayz/arcane_3.webp",
+          "/images/satano/dayz/arcane_4.webp"
+        ]
+      },
+      {
+        "slug": "collapse",
+        "title": "Collapse DayZ Standalone Software",
+        "url": "https://wh-satano.ru/en/cheats/dayz/collapse",
+        "image": "/images/satano/dayz/collapse.webp",
+        "extras": [
+          "/images/satano/dayz/collapse_2.webp",
+          "/images/satano/dayz/collapse_3.webp",
+          "/images/satano/dayz/collapse_4.webp"
+        ]
+      },
+      {
+        "slug": "covcheg",
+        "title": "COVCHEG Software for Dayz Standalone",
+        "url": "https://wh-satano.ru/en/cheats/dayz/covcheg",
+        "image": "/images/satano/dayz/covcheg.webp",
+        "extras": [
+          "/images/satano/dayz/covcheg_2.webp",
+          "/images/satano/dayz/covcheg_3.webp",
+          "/images/satano/dayz/covcheg_4.webp"
+        ]
+      },
+      {
+        "slug": "crusader",
+        "title": "Crusader Hack for Dayz (Magic Bullet + ESP)",
+        "url": "https://wh-satano.ru/en/cheats/dayz/crusader",
+        "image": "/images/satano/dayz/crusader.webp",
+        "extras": [
+          "/images/satano/dayz/crusader_2.webp",
+          "/images/satano/dayz/crusader_3.webp",
+          "/images/satano/dayz/crusader_4.webp"
+        ]
+      },
+      {
+        "slug": "mason",
+        "title": "DayZ Mason Software",
+        "url": "https://wh-satano.ru/en/cheats/dayz/mason",
+        "image": "/images/satano/dayz/mason.webp",
+        "extras": [
+          "/images/satano/dayz/mason_2.webp",
+          "/images/satano/dayz/mason_3.webp",
+          "/images/satano/dayz/mason_4.webp"
+        ]
+      },
+      {
+        "slug": "medusa",
+        "title": "Software Medusa for DayZ SA",
+        "url": "https://wh-satano.ru/en/cheats/dayz/medusa",
+        "image": "/images/satano/dayz/medusa.webp",
+        "extras": [
+          "/images/satano/dayz/medusa_2.webp",
+          "/images/satano/dayz/medusa_3.webp",
+          "/images/satano/dayz/medusa_4.webp"
+        ]
+      },
+      {
+        "slug": "memez",
+        "title": "Memez Software for DayZ Standalone",
+        "url": "https://wh-satano.ru/en/cheats/dayz/memez",
+        "image": "/images/satano/dayz/memez.webp",
+        "extras": [
+          "/images/satano/dayz/memez_2.webp",
+          "/images/satano/dayz/memez_3.webp",
+          "/images/satano/dayz/memez_4.webp"
+        ]
+      }
+    ]
+  },
+  "pubg": {
+    "category": "https://wh-satano.ru/en/cheats/pybg",
+    "hero": "/images/satano/pubg/hero.webp",
+    "versions": [
+      {
+        "slug": "ancient",
+        "title": "Ancient Cheat for PUBG (Aim + ESP + Radar + Spoofer)",
+        "url": "https://wh-satano.ru/en/cheats/pybg/ancient",
+        "image": "/images/satano/pubg/ancient.webp",
+        "extras": [
+          "/images/satano/pubg/ancient_2.webp",
+          "/images/satano/pubg/ancient_3.webp",
+          "/images/satano/pubg/ancient_4.webp"
+        ]
+      },
+      {
+        "slug": "arcane-pubg-esp",
+        "title": "Arcane PUBG ESP Only Software",
+        "url": "https://wh-satano.ru/en/cheats/pybg/arcane-pubg-esp",
+        "image": "/images/satano/pubg/arcane-pubg-esp.webp",
+        "extras": [
+          "/images/satano/pubg/arcane-pubg-esp_2.webp",
+          "/images/satano/pubg/arcane-pubg-esp_3.webp",
+          "/images/satano/pubg/arcane-pubg-esp_4.webp"
+        ]
+      },
+      {
+        "slug": "arcane-pubg-full",
+        "title": "Arcane PUBG Full Software",
+        "url": "https://wh-satano.ru/en/cheats/pybg/arcane-pubg-full",
+        "image": "/images/satano/pubg/arcane-pubg-full.webp",
+        "extras": [
+          "/images/satano/pubg/arcane-pubg-full_2.webp",
+          "/images/satano/pubg/arcane-pubg-full_3.webp",
+          "/images/satano/pubg/arcane-pubg-full_4.webp"
+        ]
+      },
+      {
+        "slug": "arcane-radar",
+        "title": "Arcane Radar-hack for PUBG Battlegrounds",
+        "url": "https://wh-satano.ru/en/cheats/pybg/arcane-radar",
+        "image": "/images/satano/pubg/arcane-radar.webp",
+        "extras": [
+          "/images/satano/pubg/arcane-radar_2.webp",
+          "/images/satano/pubg/arcane-radar_3.webp",
+          "/images/satano/pubg/arcane-radar_4.webp"
+        ]
+      },
+      {
+        "slug": "covcheg",
+        "title": "PUBG COVCHEG HACK",
+        "url": "https://wh-satano.ru/en/cheats/pybg/covcheg",
+        "image": "/images/satano/pubg/covcheg.webp",
+        "extras": [
+          "/images/satano/pubg/covcheg_2.webp",
+          "/images/satano/pubg/covcheg_3.webp",
+          "/images/satano/pubg/covcheg_4.webp"
+        ]
+      },
+      {
+        "slug": "fecurity",
+        "title": "Fecurity Cheat for PUBG",
+        "url": "https://wh-satano.ru/en/cheats/pybg/fecurity",
+        "image": "/images/satano/pubg/fecurity.webp",
+        "extras": [
+          "/images/satano/pubg/fecurity_2.webp",
+          "/images/satano/pubg/fecurity_3.webp",
+          "/images/satano/pubg/fecurity_4.webp"
+        ]
+      },
+      {
+        "slug": "memez-radar",
+        "title": "Memez Radar Software for PUBG",
+        "url": "https://wh-satano.ru/en/cheats/pybg/memez-radar",
+        "image": "/images/satano/pubg/memez-radar.webp",
+        "extras": [
+          "/images/satano/pubg/memez-radar_2.webp",
+          "/images/satano/pubg/memez-radar_3.webp",
+          "/images/satano/pubg/memez-radar_4.webp"
+        ]
+      },
+      {
+        "slug": "phoenix-full",
+        "title": "Phoenix FULL Software for PUBG Battlegrounds (Satano)",
+        "url": "https://wh-satano.ru/en/cheats/pybg/phoenix-full",
+        "image": "/images/satano/pubg/phoenix-full.webp",
+        "extras": [
+          "/images/satano/pubg/phoenix-full_2.webp",
+          "/images/satano/pubg/phoenix-full_3.webp",
+          "/images/satano/pubg/phoenix-full_4.webp"
+        ]
+      }
+    ]
+  },
+  "battlefield-6": {
+    "category": "https://wh-satano.ru/en/cheats/battlefield-6",
+    "hero": "/images/satano/battlefield-6/hero.webp",
+    "versions": [
+      {
+        "slug": "ancient-bf6",
+        "title": "Ancient Software for Battlefield 6 (BF6)",
+        "url": "https://wh-satano.ru/en/cheats/battlefield-6/ancient-bf6",
+        "image": "/images/satano/battlefield-6/ancient-bf6.webp",
+        "extras": [
+          "/images/satano/battlefield-6/ancient-bf6_2.webp",
+          "/images/satano/battlefield-6/ancient-bf6_3.webp",
+          "/images/satano/battlefield-6/ancient-bf6_4.webp"
+        ]
+      },
+      {
+        "slug": "arcane-bf6",
+        "title": "Arcane Software for Battlefield 6 (BF6)",
+        "url": "https://wh-satano.ru/en/cheats/battlefield-6/arcane-bf6",
+        "image": "/images/satano/battlefield-6/arcane-bf6.webp",
+        "extras": [
+          "/images/satano/battlefield-6/arcane-bf6_2.webp",
+          "/images/satano/battlefield-6/arcane-bf6_3.webp",
+          "/images/satano/battlefield-6/arcane-bf6_4.webp"
+        ]
+      },
+      {
+        "slug": "bf6-fecurity",
+        "title": "Fecurity Software for Battlefield 6",
+        "url": "https://wh-satano.ru/en/cheats/battlefield-6/bf6-fecurity",
+        "image": "/images/satano/battlefield-6/bf6-fecurity.webp",
+        "extras": [
+          "/images/satano/battlefield-6/bf6-fecurity_2.webp",
+          "/images/satano/battlefield-6/bf6-fecurity_3.webp",
+          "/images/satano/battlefield-6/bf6-fecurity_4.webp"
+        ]
+      },
+      {
+        "slug": "crooked-bf6",
+        "title": "Crooked Arms Software for Battlefield 6 &amp; Redsec",
+        "url": "https://wh-satano.ru/en/cheats/battlefield-6/crooked-bf6",
+        "image": "/images/satano/battlefield-6/crooked-bf6.webp",
+        "extras": [
+          "/images/satano/battlefield-6/crooked-bf6_2.webp",
+          "/images/satano/battlefield-6/crooked-bf6_3.webp",
+          "/images/satano/battlefield-6/crooked-bf6_4.webp"
+        ]
+      }
+    ]
+  },
+  "call-of-duty-black-ops-7": {
+    "category": "https://wh-satano.ru/en/cheats/cod-black-ops-7",
+    "hero": "/images/satano/call-of-duty-black-ops-7/hero.webp",
+    "versions": [
+      {
+        "slug": "crooked-cod-spoofer",
+        "title": "Crooked HWID Spoofer for Call of Duty Warzone, Black Ops, Modern Warfare",
+        "url": "https://wh-satano.ru/en/cheats/cod-black-ops-7/crooked-cod-spoofer",
+        "image": "/images/satano/call-of-duty-black-ops-7/crooked-cod-spoofer.webp",
+        "extras": []
+      }
+    ]
+  },
+  "duet-night-abyss": {
+    "category": "https://wh-satano.ru/en/cheats/duet-night-abyss",
+    "hero": "/images/satano/duet-night-abyss/hero.webp",
+    "versions": [
+      {
+        "slug": "unicore",
+        "title": "Unicore Software for Duet Night Abyss (DNA)",
+        "url": "https://wh-satano.ru/en/cheats/duet-night-abyss/unicore",
+        "image": "/images/satano/duet-night-abyss/unicore.webp",
+        "extras": [
+          "/images/satano/duet-night-abyss/unicore_2.webp",
+          "/images/satano/duet-night-abyss/unicore_3.webp",
+          "/images/satano/duet-night-abyss/unicore_4.webp"
+        ]
+      }
+    ]
+  },
+  "pioneers-of-pagonia": {
+    "category": "https://wh-satano.ru/en/cheats/pioner",
+    "hero": "/images/satano/pioneers-of-pagonia/hero.webp",
+    "versions": [
+      {
+        "slug": "arcane",
+        "title": "Arcane Software for Pioner",
+        "url": "https://wh-satano.ru/en/cheats/pioner/arcane",
+        "image": "/images/satano/pioneers-of-pagonia/arcane.webp",
+        "extras": [
+          "/images/satano/pioneers-of-pagonia/arcane_2.webp",
+          "/images/satano/pioneers-of-pagonia/arcane_3.webp",
+          "/images/satano/pioneers-of-pagonia/arcane_4.webp"
+        ]
+      }
+    ]
+  },
+  "megabonk": {
+    "category": "https://wh-satano.ru/en/cheats/megabonk",
+    "hero": "/images/satano/megabonk/hero.webp",
+    "versions": [
+      {
+        "slug": "byster",
+        "title": "Byster Software for Megabonk and Megaladder",
+        "url": "https://wh-satano.ru/en/cheats/megabonk/byster",
+        "image": "/images/satano/megabonk/byster.webp",
+        "extras": [
+          "/images/satano/megabonk/byster_2.webp",
+          "/images/satano/megabonk/byster_3.webp",
+          "/images/satano/megabonk/byster_4.webp"
+        ]
+      }
+    ]
+  },
+  "humanitz": {
+    "category": "https://wh-satano.ru/en/cheats/humanitz",
+    "hero": "/images/satano/humanitz/hero.webp",
+    "versions": [
+      {
+        "slug": "arcane",
+        "title": "Arcane Software for HumanitZ",
+        "url": "https://wh-satano.ru/en/cheats/humanitz/arcane",
+        "image": "/images/satano/humanitz/arcane.webp",
+        "extras": [
+          "/images/satano/humanitz/arcane_2.webp",
+          "/images/satano/humanitz/arcane_3.webp",
+          "/images/satano/humanitz/arcane_4.webp"
+        ]
+      }
+    ]
+  },
+  "the-division-2": {
+    "category": "https://wh-satano.ru/en/cheats/division2",
+    "hero": "/images/satano/the-division-2/hero.webp",
+    "versions": [
+      {
+        "slug": "softhub",
+        "title": "Softhub External Software for Division 2",
+        "url": "https://wh-satano.ru/en/cheats/division2/softhub",
+        "image": "/images/satano/the-division-2/softhub.webp",
+        "extras": [
+          "/images/satano/the-division-2/softhub_2.webp",
+          "/images/satano/the-division-2/softhub_3.webp",
+          "/images/satano/the-division-2/softhub_4.webp"
+        ]
+      }
+    ]
+  },
+  "the-seven-deadly-sins": {
+    "category": "https://wh-satano.ru/en/cheats/tsds-origin",
+    "hero": "/images/satano/the-seven-deadly-sins/hero.webp",
+    "versions": [
+      {
+        "slug": "unicore",
+        "title": "Unicore Software for Seven Deadly Sins Origin (TSDSO)",
+        "url": "https://wh-satano.ru/en/cheats/tsds-origin/unicore",
+        "image": "/images/satano/the-seven-deadly-sins/unicore.webp",
+        "extras": [
+          "/images/satano/the-seven-deadly-sins/unicore_2.webp",
+          "/images/satano/the-seven-deadly-sins/unicore_3.webp",
+          "/images/satano/the-seven-deadly-sins/unicore_4.webp"
+        ]
+      }
+    ]
+  },
+  "neverness-to-everness": {
+    "category": "https://wh-satano.ru/en/cheats/neverness-to-everness",
+    "hero": "/images/satano/neverness-to-everness/hero.webp",
+    "versions": [
+      {
+        "slug": "unicore",
+        "title": "Unicore Mod Menu for Neverness to Everness (NTE)",
+        "url": "https://wh-satano.ru/en/cheats/neverness-to-everness/unicore",
+        "image": "/images/satano/neverness-to-everness/unicore.webp",
+        "extras": [
+          "/images/satano/neverness-to-everness/unicore_2.webp",
+          "/images/satano/neverness-to-everness/unicore_3.webp",
+          "/images/satano/neverness-to-everness/unicore_4.webp"
+        ]
+      }
+    ]
+  },
+  "ark-survival-ascended": {
+    "category": "https://wh-satano.ru/en/cheats/ark-ascended",
+    "hero": "/images/satano/ark-survival-ascended/hero.webp",
+    "versions": [
+      {
+        "slug": "arcane",
+        "title": "Arcane Ark Survival Ascended Software",
+        "url": "https://wh-satano.ru/en/cheats/ark-ascended/arcane",
+        "image": "/images/satano/ark-survival-ascended/arcane.webp",
+        "extras": [
+          "/images/satano/ark-survival-ascended/arcane_2.webp",
+          "/images/satano/ark-survival-ascended/arcane_3.webp",
+          "/images/satano/ark-survival-ascended/arcane_4.webp"
+        ]
+      },
+      {
+        "slug": "phoenix",
+        "title": "Phoenix Software for ARK Survival Ascended (SA)",
+        "url": "https://wh-satano.ru/en/cheats/ark-ascended/phoenix",
+        "image": "/images/satano/ark-survival-ascended/phoenix.webp",
+        "extras": [
+          "/images/satano/ark-survival-ascended/phoenix_2.webp",
+          "/images/satano/ark-survival-ascended/phoenix_3.webp",
+          "/images/satano/ark-survival-ascended/phoenix_4.webp"
+        ]
+      },
+      {
+        "slug": "pussycat",
+        "title": "Pussycat Software for Ark Survival Ascended",
+        "url": "https://wh-satano.ru/en/cheats/ark-ascended/pussycat",
+        "image": "/images/satano/ark-survival-ascended/pussycat.webp",
+        "extras": [
+          "/images/satano/ark-survival-ascended/pussycat_2.webp"
+        ]
+      },
+      {
+        "slug": "smg",
+        "title": "SMG Ark Survival Ascended Software",
+        "url": "https://wh-satano.ru/en/cheats/ark-ascended/smg",
+        "image": "/images/satano/ark-survival-ascended/smg.webp",
+        "extras": [
+          "/images/satano/ark-survival-ascended/smg_2.webp",
+          "/images/satano/ark-survival-ascended/smg_3.webp",
+          "/images/satano/ark-survival-ascended/smg_4.webp"
+        ]
+      }
+    ]
+  },
+  "sand": {
+    "category": "https://wh-satano.ru/en/cheats/sand-raiders",
+    "hero": "/images/satano/sand/hero.webp",
+    "versions": [
+      {
+        "slug": "phoenix",
+        "title": "Phoenix Software for Sand Raiders of Sophie",
+        "url": "https://wh-satano.ru/en/cheats/sand-raiders/phoenix",
+        "image": "/images/satano/sand/phoenix.webp",
+        "extras": [
+          "/images/satano/sand/phoenix_2.webp",
+          "/images/satano/sand/phoenix_3.webp",
+          "/images/satano/sand/phoenix_4.webp"
+        ]
+      }
+    ]
+  },
+  "cod-bocw": {
+    "category": "https://wh-satano.ru/en/cheats/cod-cheats",
+    "hero": "/images/satano/cod-bocw/hero.webp",
+    "versions": [
+      {
+        "slug": "ancient",
+        "title": "Ancient Call of Duty (COD)",
+        "url": "https://wh-satano.ru/en/cheats/cod-cheats/ancient",
+        "image": "/images/satano/cod-bocw/ancient.webp",
+        "extras": [
+          "/images/satano/cod-bocw/ancient_2.webp",
+          "/images/satano/cod-bocw/ancient_3.webp"
+        ]
+      },
+      {
+        "slug": "mw3",
+        "title": "Dullwave Software for Modern Warfare 3 (MW3)",
+        "url": "https://wh-satano.ru/en/cheats/cod-cheats/mw3",
+        "image": "/images/satano/cod-bocw/mw3.webp",
+        "extras": [
+          "/images/satano/cod-bocw/mw3_2.webp",
+          "/images/satano/cod-bocw/mw3_3.webp",
+          "/images/satano/cod-bocw/mw3_4.webp"
+        ]
+      },
+      {
+        "slug": "warzone2",
+        "title": "Dullwave Software for Call of Duty Modern Warfare 2 (MW2)",
+        "url": "https://wh-satano.ru/en/cheats/cod-cheats/warzone2",
+        "image": "/images/satano/cod-bocw/warzone2.webp",
+        "extras": [
+          "/images/satano/cod-bocw/warzone2_2.webp",
+          "/images/satano/cod-bocw/warzone2_3.webp",
+          "/images/satano/cod-bocw/warzone2_4.webp"
+        ]
+      }
+    ]
+  },
+  "insurge": {
+    "category": "https://wh-satano.ru/en/cheats/insurgency",
+    "hero": "/images/satano/insurge/hero.webp",
+    "versions": [
+      {
+        "slug": "hack",
+        "title": "Fecurity Software for Insurgency Sandstorm",
+        "url": "https://wh-satano.ru/en/cheats/insurgency/hack",
+        "image": "/images/satano/insurge/hack.webp",
+        "extras": [
+          "/images/satano/insurge/hack_2.webp",
+          "/images/satano/insurge/hack_3.webp",
+          "/images/satano/insurge/hack_4.webp"
+        ]
+      }
+    ]
+  },
+  "moe": {
+    "category": "https://wh-satano.ru/en/cheats/myth_of_empires",
+    "hero": "/images/satano/moe/hero.webp",
+    "versions": [
+      {
+        "slug": "hack",
+        "title": "Pussycat External Software for Myth of Empires",
+        "url": "https://wh-satano.ru/en/cheats/myth_of_empires/hack",
+        "image": "/images/satano/moe/hack.webp",
+        "extras": [
+          "/images/satano/moe/hack_2.webp",
+          "/images/satano/moe/hack_3.webp",
+          "/images/satano/moe/hack_4.webp"
+        ]
+      }
+    ]
+  },
+  "isle": {
+    "category": "https://wh-satano.ru/en/cheats/the-isle",
+    "hero": "/images/satano/isle/hero.webp",
+    "versions": [
+      {
+        "slug": "pussycat",
+        "title": "Pussycat for The Isle Evrima / Horde",
+        "url": "https://wh-satano.ru/en/cheats/the-isle/pussycat",
+        "image": "/images/satano/isle/pussycat.webp",
+        "extras": [
+          "/images/satano/isle/pussycat_2.webp",
+          "/images/satano/isle/pussycat_3.webp"
+        ]
+      }
+    ]
+  },
+  "conan": {
+    "category": "https://wh-satano.ru/en/cheats/conan-exiles",
+    "hero": "/images/satano/conan/hero.webp",
+    "versions": [
+      {
+        "slug": "arcane",
+        "title": "Arcane Software for Conan Exiles",
+        "url": "https://wh-satano.ru/en/cheats/conan-exiles/arcane",
+        "image": "/images/satano/conan/arcane.webp",
+        "extras": [
+          "/images/satano/conan/arcane_2.webp",
+          "/images/satano/conan/arcane_3.webp",
+          "/images/satano/conan/arcane_4.webp"
+        ]
+      }
+    ]
+  },
+  "wunthering": {
+    "category": "https://wh-satano.ru/en/cheats/wuthering-waves",
+    "hero": "/images/satano/wunthering/hero.webp",
+    "versions": [
+      {
+        "slug": "unicore",
+        "title": "Unicore for Wuthering Waves",
+        "url": "https://wh-satano.ru/en/cheats/wuthering-waves/unicore",
+        "image": "/images/satano/wunthering/unicore.webp",
+        "extras": [
+          "/images/satano/wunthering/unicore_2.webp",
+          "/images/satano/wunthering/unicore_3.webp",
+          "/images/satano/wunthering/unicore_4.webp"
+        ]
+      }
+    ]
+  },
+  "gray-zone": {
+    "category": "https://wh-satano.ru/en/cheats/gray_zone_warfare",
+    "hero": "/images/satano/gray-zone/hero.webp",
+    "versions": [
+      {
+        "slug": "esp",
+        "title": "Phoenix-Hack Software for Gray Zone Warfare (GZW)",
+        "url": "https://wh-satano.ru/en/cheats/gray_zone_warfare/esp",
+        "image": "/images/satano/gray-zone/esp.webp",
+        "extras": [
+          "/images/satano/gray-zone/esp_2.webp",
+          "/images/satano/gray-zone/esp_3.webp",
+          "/images/satano/gray-zone/esp_4.webp"
+        ]
+      },
+      {
+        "slug": "fecurity",
+        "title": "Fecurity Software for Gray Zone Warfare (GZW)",
+        "url": "https://wh-satano.ru/en/cheats/gray_zone_warfare/fecurity",
+        "image": "/images/satano/gray-zone/fecurity.webp",
+        "extras": [
+          "/images/satano/gray-zone/fecurity_2.webp",
+          "/images/satano/gray-zone/fecurity_3.webp"
+        ]
+      },
+      {
+        "slug": "pussycat",
+        "title": "PussyCat Software for Gray Zone Warfare (GZW)",
+        "url": "https://wh-satano.ru/en/cheats/gray_zone_warfare/pussycat",
+        "image": "/images/satano/gray-zone/pussycat.webp",
+        "extras": [
+          "/images/satano/gray-zone/pussycat_2.webp",
+          "/images/satano/gray-zone/pussycat_3.webp",
+          "/images/satano/gray-zone/pussycat_4.webp"
+        ]
+      }
+    ]
+  },
+  "gray-zone-warfare": {
+    "category": "https://wh-satano.ru/en/cheats/gray_zone_warfare",
+    "hero": "/images/satano/gray-zone-warfare/hero.webp",
+    "versions": [
+      {
+        "slug": "esp",
+        "title": "Phoenix-Hack Software for Gray Zone Warfare (GZW)",
+        "url": "https://wh-satano.ru/en/cheats/gray_zone_warfare/esp",
+        "image": "/images/satano/gray-zone-warfare/esp.webp",
+        "extras": [
+          "/images/satano/gray-zone-warfare/esp_2.webp",
+          "/images/satano/gray-zone-warfare/esp_3.webp",
+          "/images/satano/gray-zone-warfare/esp_4.webp"
+        ]
+      },
+      {
+        "slug": "fecurity",
+        "title": "Fecurity Software for Gray Zone Warfare (GZW)",
+        "url": "https://wh-satano.ru/en/cheats/gray_zone_warfare/fecurity",
+        "image": "/images/satano/gray-zone-warfare/fecurity.webp",
+        "extras": [
+          "/images/satano/gray-zone-warfare/fecurity_2.webp",
+          "/images/satano/gray-zone-warfare/fecurity_3.webp"
+        ]
+      },
+      {
+        "slug": "pussycat",
+        "title": "PussyCat Software for Gray Zone Warfare (GZW)",
+        "url": "https://wh-satano.ru/en/cheats/gray_zone_warfare/pussycat",
+        "image": "/images/satano/gray-zone-warfare/pussycat.webp",
+        "extras": [
+          "/images/satano/gray-zone-warfare/pussycat_2.webp",
+          "/images/satano/gray-zone-warfare/pussycat_3.webp",
+          "/images/satano/gray-zone-warfare/pussycat_4.webp"
+        ]
+      }
+    ]
+  },
+  "bodycam": {
+    "category": "https://wh-satano.ru/en/cheats/bodycam",
+    "hero": "/images/satano/bodycam/hero.webp",
+    "versions": [
+      {
+        "slug": "softhub",
+        "title": "SOFTHUB Software for BodyCam (Softhub Bodycam)",
+        "url": "https://wh-satano.ru/en/cheats/bodycam/softhub",
+        "image": "/images/satano/bodycam/softhub.webp",
+        "extras": [
+          "/images/satano/bodycam/softhub_2.webp",
+          "/images/satano/bodycam/softhub_3.webp",
+          "/images/satano/bodycam/softhub_4.webp"
+        ]
+      }
+    ]
+  },
+  "the-first-descendant": {
+    "category": "https://wh-satano.ru/en/cheats/the_first_descendant",
+    "hero": "/images/satano/the-first-descendant/hero.webp",
+    "versions": [
+      {
+        "slug": "arcane",
+        "title": "Arcane Software for The First Descendant (TFD)",
+        "url": "https://wh-satano.ru/en/cheats/the_first_descendant/arcane",
+        "image": "/images/satano/the-first-descendant/arcane.webp",
+        "extras": [
+          "/images/satano/the-first-descendant/arcane_2.webp",
+          "/images/satano/the-first-descendant/arcane_3.webp",
+          "/images/satano/the-first-descendant/arcane_4.webp"
+        ]
+      },
+      {
+        "slug": "hack",
+        "title": "Pussycat External Software for The First Descendand",
+        "url": "https://wh-satano.ru/en/cheats/the_first_descendant/hack",
+        "image": "/images/satano/the-first-descendant/hack.webp",
+        "extras": [
+          "/images/satano/the-first-descendant/hack_2.webp",
+          "/images/satano/the-first-descendant/hack_3.webp",
+          "/images/satano/the-first-descendant/hack_4.webp"
+        ]
+      }
+    ]
+  },
+  "zenless-zone-zero": {
+    "category": "https://wh-satano.ru/en/cheats/zenless-zone-zero",
+    "hero": "/images/satano/zenless-zone-zero/hero.webp",
+    "versions": [
+      {
+        "slug": "unicore",
+        "title": "Unicore Zenless Zone Zero Software",
+        "url": "https://wh-satano.ru/en/cheats/zenless-zone-zero/unicore",
+        "image": "/images/satano/zenless-zone-zero/unicore.webp",
+        "extras": [
+          "/images/satano/zenless-zone-zero/unicore_2.webp",
+          "/images/satano/zenless-zone-zero/unicore_3.webp",
+          "/images/satano/zenless-zone-zero/unicore_4.webp"
+        ]
+      }
+    ]
+  },
+  "deadlock": {
+    "category": "https://wh-satano.ru/en/cheats/deadlock",
+    "hero": "/images/satano/deadlock/hero.webp",
+    "versions": [
+      {
+        "slug": "byster",
+        "title": "Byster Software for Deadlock",
+        "url": "https://wh-satano.ru/en/cheats/deadlock/byster",
+        "image": "/images/satano/deadlock/byster.webp",
+        "extras": [
+          "/images/satano/deadlock/byster_2.webp",
+          "/images/satano/deadlock/byster_3.webp",
+          "/images/satano/deadlock/byster_4.webp"
+        ]
+      },
+      {
+        "slug": "mason",
+        "title": "Mason Software for Deadlock",
+        "url": "https://wh-satano.ru/en/cheats/deadlock/mason",
+        "image": "/images/satano/deadlock/mason.webp",
+        "extras": [
+          "/images/satano/deadlock/mason_2.webp",
+          "/images/satano/deadlock/mason_3.webp",
+          "/images/satano/deadlock/mason_4.webp"
+        ]
+      },
+      {
+        "slug": "phoenix",
+        "title": "Phoenix Software for Deadlock",
+        "url": "https://wh-satano.ru/en/cheats/deadlock/phoenix",
+        "image": "/images/satano/deadlock/phoenix.webp",
+        "extras": [
+          "/images/satano/deadlock/phoenix_2.webp",
+          "/images/satano/deadlock/phoenix_3.webp",
+          "/images/satano/deadlock/phoenix_4.webp"
+        ]
+      },
+      {
+        "slug": "predator",
+        "title": "Predator Systems Software for Deadlock",
+        "url": "https://wh-satano.ru/en/cheats/deadlock/predator",
+        "image": "/images/satano/deadlock/predator.webp",
+        "extras": [
+          "/images/satano/deadlock/predator_2.webp",
+          "/images/satano/deadlock/predator_3.webp",
+          "/images/satano/deadlock/predator_4.webp"
+        ]
+      },
+      {
+        "slug": "softhub",
+        "title": "Private Cheat Softhub for Deadlock (Hack)",
+        "url": "https://wh-satano.ru/en/cheats/deadlock/softhub",
+        "image": "/images/satano/deadlock/softhub.webp",
+        "extras": [
+          "/images/satano/deadlock/softhub_2.webp",
+          "/images/satano/deadlock/softhub_3.webp",
+          "/images/satano/deadlock/softhub_4.webp"
+        ]
+      },
+      {
+        "slug": "software",
+        "title": "PussyCat Software for Deadlock",
+        "url": "https://wh-satano.ru/en/cheats/deadlock/software",
+        "image": "/images/satano/deadlock/software.webp",
+        "extras": [
+          "/images/satano/deadlock/software_2.webp",
+          "/images/satano/deadlock/software_3.webp",
+          "/images/satano/deadlock/software_4.webp"
+        ]
+      }
+    ]
+  },
+  "snowbreak-containment-zone": {
+    "category": "https://wh-satano.ru/en/cheats/snowbreak-containment-zone",
+    "hero": "/images/satano/snowbreak-containment-zone/hero.webp",
+    "versions": [
+      {
+        "slug": "unicore",
+        "title": "Unicore Snowbreak: Containment Zone Software",
+        "url": "https://wh-satano.ru/en/cheats/snowbreak-containment-zone/unicore",
+        "image": "/images/satano/snowbreak-containment-zone/unicore.webp",
+        "extras": [
+          "/images/satano/snowbreak-containment-zone/unicore_2.webp",
+          "/images/satano/snowbreak-containment-zone/unicore_3.webp",
+          "/images/satano/snowbreak-containment-zone/unicore_4.webp"
+        ]
+      }
+    ]
+  },
+  "off-the-grid": {
+    "category": "https://wh-satano.ru/en/cheats/off_the_grid",
+    "hero": "/images/satano/off-the-grid/hero.webp",
+    "versions": [
+      {
+        "slug": "arcane",
+        "title": "Arcane Off the Grid Software (OTG)",
+        "url": "https://wh-satano.ru/en/cheats/off_the_grid/arcane",
+        "image": "/images/satano/off-the-grid/arcane.webp",
+        "extras": [
+          "/images/satano/off-the-grid/arcane_2.webp",
+          "/images/satano/off-the-grid/arcane_3.webp"
+        ]
+      },
+      {
+        "slug": "hack",
+        "title": "Pussycat Software for Off The Grid (OTG)",
+        "url": "https://wh-satano.ru/en/cheats/off_the_grid/hack",
+        "image": "/images/satano/off-the-grid/hack.webp",
+        "extras": [
+          "/images/satano/off-the-grid/hack_2.webp",
+          "/images/satano/off-the-grid/hack_3.webp",
+          "/images/satano/off-the-grid/hack_4.webp"
+        ]
+      }
+    ]
+  },
+  "marvel-rivals": {
+    "category": "https://wh-satano.ru/en/cheats/marvel_rivals",
+    "hero": "/images/satano/marvel-rivals/hero.webp",
+    "versions": [
+      {
+        "slug": "arcane",
+        "title": "Cheat Arcane for Marvel Rivals",
+        "url": "https://wh-satano.ru/en/cheats/marvel_rivals/arcane",
+        "image": "/images/satano/marvel-rivals/arcane.webp",
+        "extras": [
+          "/images/satano/marvel-rivals/arcane_2.webp",
+          "/images/satano/marvel-rivals/arcane_3.webp",
+          "/images/satano/marvel-rivals/arcane_4.webp"
+        ]
+      },
+      {
+        "slug": "byster",
+        "title": "Byster Software for Marvel Rivals",
+        "url": "https://wh-satano.ru/en/cheats/marvel_rivals/byster",
+        "image": "/images/satano/marvel-rivals/byster.webp",
+        "extras": [
+          "/images/satano/marvel-rivals/byster_2.webp",
+          "/images/satano/marvel-rivals/byster_3.webp",
+          "/images/satano/marvel-rivals/byster_4.webp"
+        ]
+      },
+      {
+        "slug": "dullwave",
+        "title": "Dullwave Software for Marvel Rivals (Dull)",
+        "url": "https://wh-satano.ru/en/cheats/marvel_rivals/dullwave",
+        "image": "/images/satano/marvel-rivals/dullwave.webp",
+        "extras": [
+          "/images/satano/marvel-rivals/dullwave_2.webp",
+          "/images/satano/marvel-rivals/dullwave_3.webp",
+          "/images/satano/marvel-rivals/dullwave_4.webp"
+        ]
+      },
+      {
+        "slug": "external",
+        "title": "Pussycat Software for Marvel Rivals",
+        "url": "https://wh-satano.ru/en/cheats/marvel_rivals/external",
+        "image": "/images/satano/marvel-rivals/external.webp",
+        "extras": [
+          "/images/satano/marvel-rivals/external_2.webp",
+          "/images/satano/marvel-rivals/external_3.webp",
+          "/images/satano/marvel-rivals/external_4.webp"
+        ]
+      },
+      {
+        "slug": "fecurity",
+        "title": "Cheat Fecurity for Marvel Rivals",
+        "url": "https://wh-satano.ru/en/cheats/marvel_rivals/fecurity",
+        "image": "/images/satano/marvel-rivals/fecurity.webp",
+        "extras": [
+          "/images/satano/marvel-rivals/fecurity_2.webp",
+          "/images/satano/marvel-rivals/fecurity_3.webp",
+          "/images/satano/marvel-rivals/fecurity_4.webp"
+        ]
+      },
+      {
+        "slug": "fury",
+        "title": "Fury Software for Marvel Rivals",
+        "url": "https://wh-satano.ru/en/cheats/marvel_rivals/fury",
+        "image": "/images/satano/marvel-rivals/fury.webp",
+        "extras": [
+          "/images/satano/marvel-rivals/fury_2.webp",
+          "/images/satano/marvel-rivals/fury_3.webp",
+          "/images/satano/marvel-rivals/fury_4.webp"
+        ]
+      },
+      {
+        "slug": "phoenix",
+        "title": "Phoenix Marvel Rivals Software (Satano)",
+        "url": "https://wh-satano.ru/en/cheats/marvel_rivals/phoenix",
+        "image": "/images/satano/marvel-rivals/phoenix.webp",
+        "extras": [
+          "/images/satano/marvel-rivals/phoenix_2.webp",
+          "/images/satano/marvel-rivals/phoenix_3.webp",
+          "/images/satano/marvel-rivals/phoenix_4.webp"
+        ]
+      },
+      {
+        "slug": "predator",
+        "title": "Predator Systems Software for Marvel Rivals",
+        "url": "https://wh-satano.ru/en/cheats/marvel_rivals/predator",
+        "image": "/images/satano/marvel-rivals/predator.webp",
+        "extras": [
+          "/images/satano/marvel-rivals/predator_2.webp",
+          "/images/satano/marvel-rivals/predator_3.webp",
+          "/images/satano/marvel-rivals/predator_4.webp"
+        ]
+      }
+    ]
+  },
+  "left-4-dead-2": {
+    "category": "https://wh-satano.ru/en/cheats/l4d2",
+    "hero": "/images/satano/left-4-dead-2/hero.webp",
+    "versions": [
+      {
+        "slug": "predator",
+        "title": "Predator Systems Software for Left 4 Dead 2 (L4D2)",
+        "url": "https://wh-satano.ru/en/cheats/l4d2/predator",
+        "image": "/images/satano/left-4-dead-2/predator.webp",
+        "extras": [
+          "/images/satano/left-4-dead-2/predator_2.webp",
+          "/images/satano/left-4-dead-2/predator_3.webp",
+          "/images/satano/left-4-dead-2/predator_4.webp"
+        ]
+      }
+    ]
+  },
+  "arma-reforger": {
+    "category": "https://wh-satano.ru/en/cheats/arma-reforger",
+    "hero": "/images/satano/arma-reforger/hero.webp",
+    "versions": [
+      {
+        "slug": "arcane",
+        "title": "Arcane Software for Arma Reforger",
+        "url": "https://wh-satano.ru/en/cheats/arma-reforger/arcane",
+        "image": "/images/satano/arma-reforger/arcane.webp",
+        "extras": [
+          "/images/satano/arma-reforger/arcane_2.webp",
+          "/images/satano/arma-reforger/arcane_3.webp",
+          "/images/satano/arma-reforger/arcane_4.webp"
+        ]
+      },
+      {
+        "slug": "mason",
+        "title": "Mason Software for Arma Reforger",
+        "url": "https://wh-satano.ru/en/cheats/arma-reforger/mason",
+        "image": "/images/satano/arma-reforger/mason.webp",
+        "extras": [
+          "/images/satano/arma-reforger/mason_2.webp",
+          "/images/satano/arma-reforger/mason_3.webp",
+          "/images/satano/arma-reforger/mason_4.webp"
+        ]
+      },
+      {
+        "slug": "softhub",
+        "title": "Cheat Softhub Full for Arma Reforger",
+        "url": "https://wh-satano.ru/en/cheats/arma-reforger/softhub",
+        "image": "/images/satano/arma-reforger/softhub.webp",
+        "extras": [
+          "/images/satano/arma-reforger/softhub_2.webp",
+          "/images/satano/arma-reforger/softhub_3.webp",
+          "/images/satano/arma-reforger/softhub_4.webp"
+        ]
+      },
+      {
+        "slug": "softhub-esp",
+        "title": "Softhub ESP Software for Arma Reforger",
+        "url": "https://wh-satano.ru/en/cheats/arma-reforger/softhub-esp",
+        "image": "/images/satano/arma-reforger/softhub-esp.webp",
+        "extras": [
+          "/images/satano/arma-reforger/softhub-esp_2.webp",
+          "/images/satano/arma-reforger/softhub-esp_3.webp"
+        ]
+      }
+    ]
+  },
+  "cs-1-6": {
+    "category": "https://wh-satano.ru/en/cheats/cs",
+    "hero": "/images/satano/cs-1-6/hero.webp",
+    "versions": [
+      {
+        "slug": "midnight",
+        "title": "Midnight for Counter-Strike 1.6",
+        "url": "https://wh-satano.ru/en/cheats/cs/midnight",
+        "image": "/images/satano/cs-1-6/midnight.webp",
+        "extras": [
+          "/images/satano/cs-1-6/midnight_2.webp",
+          "/images/satano/cs-1-6/midnight_3.webp",
+          "/images/satano/cs-1-6/midnight_4.webp"
+        ]
+      }
+    ]
+  },
+  "fragpunk": {
+    "category": "https://wh-satano.ru/en/cheats/fragpunk",
+    "hero": "/images/satano/fragpunk/hero.webp",
+    "versions": [
+      {
+        "slug": "dullwave",
+        "title": "Dullwave FragPunk Software",
+        "url": "https://wh-satano.ru/en/cheats/fragpunk/dullwave",
+        "image": "/images/satano/fragpunk/dullwave.webp",
+        "extras": [
+          "/images/satano/fragpunk/dullwave_2.webp",
+          "/images/satano/fragpunk/dullwave_3.webp",
+          "/images/satano/fragpunk/dullwave_4.webp"
+        ]
+      }
+    ]
+  },
+  "path-of-exile-2": {
+    "category": "https://wh-satano.ru/en/cheats/path-of-exile-2",
+    "hero": "/images/satano/path-of-exile-2/hero.webp",
+    "versions": [
+      {
+        "slug": "byster",
+        "title": "Byster Path of Exile 2 (Booster POE 2)",
+        "url": "https://wh-satano.ru/en/cheats/path-of-exile-2/byster",
+        "image": "/images/satano/path-of-exile-2/byster.webp",
+        "extras": [
+          "/images/satano/path-of-exile-2/byster_2.webp",
+          "/images/satano/path-of-exile-2/byster_3.webp",
+          "/images/satano/path-of-exile-2/byster_4.webp"
+        ]
+      },
+      {
+        "slug": "phoenix",
+        "title": "Phoenix Software for Path of Exile II (Satano)",
+        "url": "https://wh-satano.ru/en/cheats/path-of-exile-2/phoenix",
+        "image": "/images/satano/path-of-exile-2/phoenix.webp",
+        "extras": [
+          "/images/satano/path-of-exile-2/phoenix_2.webp",
+          "/images/satano/path-of-exile-2/phoenix_3.webp",
+          "/images/satano/path-of-exile-2/phoenix_4.webp"
+        ]
+      }
+    ]
+  },
+  "last-epoch": {
+    "category": "https://wh-satano.ru/en/cheats/last-epoch",
+    "hero": "/images/satano/last-epoch/hero.webp",
+    "versions": [
+      {
+        "slug": "byster",
+        "title": "Byster Software for Last Epoch (Scripts)",
+        "url": "https://wh-satano.ru/en/cheats/last-epoch/byster",
+        "image": "/images/satano/last-epoch/byster.webp",
+        "extras": [
+          "/images/satano/last-epoch/byster_2.webp",
+          "/images/satano/last-epoch/byster_3.webp"
+        ]
+      }
+    ]
+  },
+  "arc-raiders": {
+    "category": "https://wh-satano.ru/en/cheats/arc-raiders",
+    "hero": "/images/satano/arc-raiders/hero.webp",
+    "versions": [
+      {
+        "slug": "ancient",
+        "title": "Ancient Software for ARC Raiders",
+        "url": "https://wh-satano.ru/en/cheats/arc-raiders/ancient",
+        "image": "/images/satano/arc-raiders/ancient.webp",
+        "extras": [
+          "/images/satano/arc-raiders/ancient_2.webp",
+          "/images/satano/arc-raiders/ancient_3.webp",
+          "/images/satano/arc-raiders/ancient_4.webp"
+        ]
+      },
+      {
+        "slug": "arcane",
+        "title": "Arcane Software for ARC Raiders",
+        "url": "https://wh-satano.ru/en/cheats/arc-raiders/arcane",
+        "image": "/images/satano/arc-raiders/arcane.webp",
+        "extras": [
+          "/images/satano/arc-raiders/arcane_2.webp",
+          "/images/satano/arc-raiders/arcane_3.webp",
+          "/images/satano/arc-raiders/arcane_4.webp"
+        ]
+      },
+      {
+        "slug": "arcane-radar",
+        "title": "Arcane Radar-Hack for ARC Raiders",
+        "url": "https://wh-satano.ru/en/cheats/arc-raiders/arcane-radar",
+        "image": "/images/satano/arc-raiders/arcane-radar.webp",
+        "extras": [
+          "/images/satano/arc-raiders/arcane-radar_2.webp",
+          "/images/satano/arc-raiders/arcane-radar_3.webp",
+          "/images/satano/arc-raiders/arcane-radar_4.webp"
+        ]
+      },
+      {
+        "slug": "bleak",
+        "title": "Bleak Software for ARC Raiders",
+        "url": "https://wh-satano.ru/en/cheats/arc-raiders/bleak",
+        "image": "/images/satano/arc-raiders/bleak.webp",
+        "extras": [
+          "/images/satano/arc-raiders/bleak_2.webp",
+          "/images/satano/arc-raiders/bleak_3.webp",
+          "/images/satano/arc-raiders/bleak_4.webp"
+        ]
+      },
+      {
+        "slug": "crooked",
+        "title": "Crooked Arms Software for ARC Raiders",
+        "url": "https://wh-satano.ru/en/cheats/arc-raiders/crooked",
+        "image": "/images/satano/arc-raiders/crooked.webp",
+        "extras": [
+          "/images/satano/arc-raiders/crooked_2.webp",
+          "/images/satano/arc-raiders/crooked_3.webp",
+          "/images/satano/arc-raiders/crooked_4.webp"
+        ]
+      },
+      {
+        "slug": "dullwave",
+        "title": "Dullwave Software for Arc Raiders",
+        "url": "https://wh-satano.ru/en/cheats/arc-raiders/dullwave",
+        "image": "/images/satano/arc-raiders/dullwave.webp",
+        "extras": [
+          "/images/satano/arc-raiders/dullwave_2.webp",
+          "/images/satano/arc-raiders/dullwave_3.webp",
+          "/images/satano/arc-raiders/dullwave_4.webp"
+        ]
+      },
+      {
+        "slug": "eclipse",
+        "title": "Eclipse Full Software for ARC Raiders",
+        "url": "https://wh-satano.ru/en/cheats/arc-raiders/eclipse",
+        "image": "/images/satano/arc-raiders/eclipse.webp",
+        "extras": [
+          "/images/satano/arc-raiders/eclipse_2.webp",
+          "/images/satano/arc-raiders/eclipse_3.webp",
+          "/images/satano/arc-raiders/eclipse_4.webp"
+        ]
+      },
+      {
+        "slug": "fecurity",
+        "title": "Fecurity for ARC Raiders (Security Arc Raiders)",
+        "url": "https://wh-satano.ru/en/cheats/arc-raiders/fecurity",
+        "image": "/images/satano/arc-raiders/fecurity.webp",
+        "extras": [
+          "/images/satano/arc-raiders/fecurity_2.webp",
+          "/images/satano/arc-raiders/fecurity_3.webp",
+          "/images/satano/arc-raiders/fecurity_4.webp"
+        ]
+      }
+    ]
+  },
+  "etheria-restart": {
+    "category": "https://wh-satano.ru/en/cheats/etheria-restart",
+    "hero": "/images/satano/etheria-restart/hero.webp",
+    "versions": [
+      {
+        "slug": "unicore",
+        "title": "Unicore Etheria Restart Software",
+        "url": "https://wh-satano.ru/en/cheats/etheria-restart/unicore",
+        "image": "/images/satano/etheria-restart/unicore.webp",
+        "extras": [
+          "/images/satano/etheria-restart/unicore_2.webp",
+          "/images/satano/etheria-restart/unicore_3.webp"
+        ]
+      }
+    ]
+  },
+  "foxhole": {
+    "category": "https://wh-satano.ru/en/cheats/foxhole",
+    "hero": "/images/satano/foxhole/hero.webp",
+    "versions": [
+      {
+        "slug": "melonity",
+        "title": "Melonity Software for Foxhole",
+        "url": "https://wh-satano.ru/en/cheats/foxhole/melonity",
+        "image": "/images/satano/foxhole/melonity.webp",
+        "extras": [
+          "/images/satano/foxhole/melonity_2.webp",
+          "/images/satano/foxhole/melonity_3.webp",
+          "/images/satano/foxhole/melonity_4.webp"
+        ]
+      }
+    ]
+  }
+}

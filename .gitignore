@@ -1,0 +1,23 @@
+# Backups / scraped sources (not needed to serve the site)
+_cheatseller_source/
+_source_backup/
+_store_backup/
+
+# Temp scrape / generator junk
+_satano_eft.html
+_satano_en.html
+_zadeyo_dayz_product.html
+_zadeyo_shop.html
+_zadeyo_tmp.html
+_zadeyo_sitemap.xml
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
+
+# Local tooling
+.cursor/
+agent-transcripts/
