@@ -26,5 +26,9 @@ _cheatseller_source/
 _source_backup/
 _store_backup/
 
-# Wrangler local state
+# Wrangler local state / source (not public site files)
 .wrangler/
+worker.js
+wrangler.jsonc
+_fix_home_seo_audit.py
+_fix_market_matrix_ui.py

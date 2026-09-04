@@ -1,25 +1,9 @@
 User-agent: *
 Allow: /
 
-# Primary ranking targets: product pages /{slug}/
-Allow: /*/
-
-# Soft shell pages (catalog/home) — crawl for discovery, products are canonical targets
 Disallow: /store/
 Disallow: /_source_backup/
 Disallow: /_cheatseller_source/
-Disallow: /cs/css/font-awesome/
-Disallow: /*.json$
-Disallow: /_gen_
-Disallow: /_satano_
-Disallow: /_zadeyo_
-Disallow: /_pull_
-Disallow: /_wire_
-Disallow: /_scrub_
-Disallow: /_polish_
-Disallow: /_expand_
-Disallow: /_enrich_
-Disallow: /blogs/*/
 Disallow: /agent-transcripts/
 
 Sitemap: https://getyourcheats.com/sitemap.xml
