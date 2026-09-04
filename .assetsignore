@@ -32,3 +32,4 @@ worker.js
 wrangler.jsonc
 _fix_home_seo_audit.py
 _fix_market_matrix_ui.py
+_apply_seo_all_pages.py
