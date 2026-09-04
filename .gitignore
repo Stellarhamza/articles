@@ -21,3 +21,9 @@ Thumbs.db
 # Local tooling
 .cursor/
 agent-transcripts/
+
+# Cloudflare Wrangler
+.wrangler/
+.dev.vars
+node_modules/
+wrangler-dist/

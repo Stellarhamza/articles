@@ -1,0 +1,30 @@
+# Cloudflare Workers Assets ignore (like .gitignore for uploads)
+# Prevents deploy from uploading .git pack files (>25 MiB limit)
+
+.git/
+.wrangler/
+.dev.vars
+node_modules/
+.npm/
+.cache/
+
+# Local / editor
+.cursor/
+agent-transcripts/
+*.log
+.DS_Store
+Thumbs.db
+
+# Generator / scrape tooling (not needed to serve the site)
+__pycache__/
+*.pyc
+_*.py
+_*.json
+_*.html
+_*.xml
+_cheatseller_source/
+_source_backup/
+_store_backup/
+
+# Wrangler local state
+.wrangler/
