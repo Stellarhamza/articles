@@ -1,576 +1,658 @@
 [
   {
-    "slug": "escape-from-tarkov",
-    "href": "/escape-from-tarkov",
+    "slug": "escape-from-tarkov-cheats",
+    "href": "/escape-from-tarkov-cheats",
     "name": "Escape from Tarkov",
     "img": "/cs/uploads/202508/phpollxon_split_escape_from_tarkov.jpg",
-    "gif": "/cs/uploads/202509/php16osmi_split_eft.gif"
+    "gif": "/cs/uploads/202509/php16osmi_split_eft.gif",
+    "base_slug": "escape-from-tarkov"
   },
   {
-    "slug": "rust",
-    "href": "/rust",
+    "slug": "rust-cheats",
+    "href": "/rust-cheats",
     "name": "RUST",
     "img": "/cs/uploads/202508/phpzm4rtl_split_rust.jpg",
-    "gif": "/cs/uploads/202509/phpp8qrxe_split_rust.gif"
+    "gif": "/cs/uploads/202509/phpp8qrxe_split_rust.gif",
+    "base_slug": "rust"
   },
   {
-    "slug": "dayz",
-    "href": "/dayz",
+    "slug": "dayz-cheats",
+    "href": "/dayz-cheats",
     "name": "DayZ",
     "img": "/cs/uploads/202508/phpwwohth_split_dayz_cheats.jpg",
-    "gif": "/cs/uploads/202509/phpnttn2h_split_dayz.gif"
+    "gif": "/cs/uploads/202509/phpnttn2h_split_dayz.gif",
+    "base_slug": "dayz"
   },
   {
-    "slug": "pubg",
-    "href": "/pubg",
+    "slug": "pubg-cheats",
+    "href": "/pubg-cheats",
     "name": "PUBG",
     "img": "/cs/uploads/202508/phpjwcwon_split_pubg_cheats.jpg",
-    "gif": "/cs/uploads/202509/phpybio0q_split_pubg.gif"
+    "gif": "/cs/uploads/202509/phpybio0q_split_pubg.gif",
+    "base_slug": "pubg"
   },
   {
-    "slug": "battlefield-6",
-    "href": "/battlefield-6",
+    "slug": "battlefield-6-cheats",
+    "href": "/battlefield-6-cheats",
     "name": "Battlefield 6",
     "img": "/cs/uploads/202512/phpnhvbo3_split_666.jpg",
-    "gif": "/cs/uploads/202512/battlefield6.gif"
+    "gif": "/cs/uploads/202512/battlefield6.gif",
+    "base_slug": "battlefield-6"
   },
   {
-    "slug": "koboom",
-    "href": "/koboom",
+    "slug": "koboom-cheats",
+    "href": "/koboom-cheats",
     "name": "KoBoom",
     "img": "/cs/uploads/202510/phpb9urod_split_koboom_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "koboom"
   },
   {
-    "slug": "call-of-duty-black-ops-7",
-    "href": "/call-of-duty-black-ops-7",
+    "slug": "call-of-duty-black-ops-7-cheats",
+    "href": "/call-of-duty-black-ops-7-cheats",
     "name": "Call of Duty: Black Ops 7",
     "img": "/cs/uploads/202510/phpj46zur_split_cod_bo7_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "call-of-duty-black-ops-7"
   },
   {
-    "slug": "roblox",
-    "href": "/roblox",
+    "slug": "roblox-cheats",
+    "href": "/roblox-cheats",
     "name": "Roblox",
     "img": "/cs/uploads/202510/phpyv8yck_split_roblox_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "roblox"
   },
   {
-    "slug": "duet-night-abyss",
-    "href": "/duet-night-abyss",
+    "slug": "duet-night-abyss-cheats",
+    "href": "/duet-night-abyss-cheats",
     "name": "Duet Night Abyss",
     "img": "/cs/uploads/202511/phpedzpb3_split_duet_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "duet-night-abyss"
   },
   {
-    "slug": "pioneers-of-pagonia",
-    "href": "/pioneers-of-pagonia",
+    "slug": "pioneers-of-pagonia-cheats",
+    "href": "/pioneers-of-pagonia-cheats",
     "name": "Pioneers of Pagonia",
     "img": "/cs/uploads/202511/phpknyofl_split_pioner_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "pioneers-of-pagonia"
   },
   {
-    "slug": "team-fortress-2",
-    "href": "/team-fortress-2",
+    "slug": "team-fortress-2-cheats",
+    "href": "/team-fortress-2-cheats",
     "name": "Team Fortress 2",
     "img": "/cs/uploads/202512/phpix83xi_split_tf2_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "team-fortress-2"
   },
   {
-    "slug": "brawlhalla",
-    "href": "/brawlhalla",
+    "slug": "brawlhalla-cheats",
+    "href": "/brawlhalla-cheats",
     "name": "Brawlhalla",
     "img": "/cs/uploads/202512/phpl8mkbt_split_brawlh_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "brawlhalla"
   },
   {
-    "slug": "hytale",
-    "href": "/hytale",
+    "slug": "hytale-cheats",
+    "href": "/hytale-cheats",
     "name": "Hytale",
     "img": "/cs/uploads/202601/php7vwjql_split_hytale_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "hytale"
   },
   {
-    "slug": "megabonk",
-    "href": "/megabonk",
+    "slug": "megabonk-cheats",
+    "href": "/megabonk-cheats",
     "name": "Megabonk",
     "img": "/cs/uploads/202601/phpwwdbzc_split_megabonk_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "megabonk"
   },
   {
-    "slug": "company-of-heroes-3",
-    "href": "/company-of-heroes-3",
+    "slug": "company-of-heroes-3-cheats",
+    "href": "/company-of-heroes-3-cheats",
     "name": "Company of Heroes 3",
     "img": "/cs/uploads/202602/php2h4rd7_split_company_hero_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "company-of-heroes-3"
   },
   {
-    "slug": "marathon",
-    "href": "/marathon",
+    "slug": "marathon-cheats",
+    "href": "/marathon-cheats",
     "name": "Marathon",
     "img": "/cs/uploads/202602/php9vf9cf_split_marathon_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "marathon"
   },
   {
-    "slug": "7-days-to-die",
-    "href": "/7-days-to-die",
+    "slug": "7-days-to-die-cheats",
+    "href": "/7-days-to-die-cheats",
     "name": "7 Days to Die",
     "img": "/cs/uploads/202602/phpbf8npx_split_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "7-days-to-die"
   },
   {
-    "slug": "humanitz",
-    "href": "/humanitz",
+    "slug": "humanitz-cheats",
+    "href": "/humanitz-cheats",
     "name": "HumanitZ",
     "img": "/cs/uploads/202602/phpiecrzz_split_katalog_humanitz.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "humanitz"
   },
   {
-    "slug": "the-division-2",
-    "href": "/the-division-2",
+    "slug": "the-division-2-cheats",
+    "href": "/the-division-2-cheats",
     "name": "The Division 2",
     "img": "/cs/uploads/202603/php6fty7a_split_division2_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "the-division-2"
   },
   {
-    "slug": "russian-fishing-4",
-    "href": "/russian-fishing-4",
+    "slug": "russian-fishing-4-cheats",
+    "href": "/russian-fishing-4-cheats",
     "name": "Russian Fishing 4",
     "img": "/cs/uploads/202603/phpwc8yi9_split_ru_fish_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "russian-fishing-4"
   },
   {
-    "slug": "the-seven-deadly-sins",
-    "href": "/the-seven-deadly-sins",
+    "slug": "the-seven-deadly-sins-cheats",
+    "href": "/the-seven-deadly-sins-cheats",
     "name": "The Seven Deadly Sins: Grand Cross",
     "img": "/cs/uploads/202605/php0tc0oy_split_the_seven_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "the-seven-deadly-sins"
   },
   {
-    "slug": "neverness-to-everness",
-    "href": "/neverness-to-everness",
+    "slug": "neverness-to-everness-cheats",
+    "href": "/neverness-to-everness-cheats",
     "name": "Neverness to Everness",
     "img": "/cs/uploads/202605/php2bupsa_split_nte_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "neverness-to-everness"
   },
   {
-    "slug": "mongil-star-dive",
-    "href": "/mongil-star-dive",
+    "slug": "mongil-star-dive-cheats",
+    "href": "/mongil-star-dive-cheats",
     "name": "Mongil: Star Dive",
     "img": "/cs/uploads/202605/phpff3kt5_split_mongil_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "mongil-star-dive"
   },
   {
-    "slug": "windrose",
-    "href": "/windrose",
+    "slug": "windrose-cheats",
+    "href": "/windrose-cheats",
     "name": "Windrose",
     "img": "/cs/uploads/202605/phprgvl8p_split_windrose_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "windrose"
   },
   {
-    "slug": "ark-survival-ascended",
-    "href": "/ark-survival-ascended",
+    "slug": "ark-survival-ascended-cheats",
+    "href": "/ark-survival-ascended-cheats",
     "name": "ARK: Survival Ascended",
     "img": "/cs/uploads/202605/phpwnlutl_split_ark_endf_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "ark-survival-ascended"
   },
   {
-    "slug": "vostok",
-    "href": "/vostok",
+    "slug": "vostok-cheats",
+    "href": "/vostok-cheats",
     "name": "Vostok",
     "img": "/cs/uploads/202606/phpaivxiq_split_vostok_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "vostok"
   },
   {
-    "slug": "mecha-break",
-    "href": "/mecha-break",
+    "slug": "mecha-break-cheats",
+    "href": "/mecha-break-cheats",
     "name": "Mecha BREAK",
     "img": "/cs/uploads/202607/phpjgwisf_split_meccha_chameleon_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "mecha-break"
   },
   {
-    "slug": "sand",
-    "href": "/sand",
+    "slug": "sand-cheats",
+    "href": "/sand-cheats",
     "name": "SAND",
     "img": "/cs/uploads/202607/phpvd5yvv_split_sand_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "sand"
   },
   {
-    "slug": "cod-bocw",
-    "href": "/cod-bocw",
+    "slug": "cod-bocw-cheats",
+    "href": "/cod-bocw-cheats",
     "name": "Call of Duty: Black Ops Cold War",
     "img": "/cs/uploads/202402/phpsmx3fu_split_cod_bocw_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "cod-bocw"
   },
   {
-    "slug": "rocket",
-    "href": "/rocket",
+    "slug": "rocket-cheats",
+    "href": "/rocket-cheats",
     "name": "Rocket",
     "img": "/cs/uploads/202402/phpvudesf_split_rocket_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "rocket"
   },
   {
-    "slug": "realm",
-    "href": "/realm",
+    "slug": "realm-cheats",
+    "href": "/realm-cheats",
     "name": "Realm",
     "img": "/cs/uploads/202402/phpyqtrxu_split_realm_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "realm"
   },
   {
-    "slug": "swbf",
-    "href": "/swbf",
+    "slug": "swbf-cheats",
+    "href": "/swbf-cheats",
     "name": "Star Wars Battlefront",
     "img": "/cs/uploads/202403/php48stkg_split_swbf_w_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "swbf"
   },
   {
-    "slug": "titanfall2",
-    "href": "/titanfall2",
+    "slug": "titanfall2-cheats",
+    "href": "/titanfall2-cheats",
     "name": "Titanfall2",
     "img": "/cs/uploads/202403/phpcwy2ac_split_titanfall2_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "titanfall2"
   },
   {
-    "slug": "wows",
-    "href": "/wows",
+    "slug": "wows-cheats",
+    "href": "/wows-cheats",
     "name": "World of Warships",
     "img": "/cs/uploads/202403/phpegxbxa_split_wows_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "wows"
   },
   {
-    "slug": "halo",
-    "href": "/halo",
+    "slug": "halo-cheats",
+    "href": "/halo-cheats",
     "name": "Halo",
     "img": "/cs/uploads/202403/phpi8kcqr_split_halo_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "halo"
   },
   {
-    "slug": "hd2",
-    "href": "/hd2",
+    "slug": "hd2-cheats",
+    "href": "/hd2-cheats",
     "name": "Helldivers 2",
     "img": "/cs/uploads/202403/phpj51yc5_split_hd2_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "hd2"
   },
   {
-    "slug": "starship",
-    "href": "/starship",
+    "slug": "starship-cheats",
+    "href": "/starship-cheats",
     "name": "Starship Troopers",
     "img": "/cs/uploads/202403/phprium9q_split_starship_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "starship"
   },
   {
-    "slug": "insurge",
-    "href": "/insurge",
+    "slug": "insurge-cheats",
+    "href": "/insurge-cheats",
     "name": "Insurgency: Sandstorm",
     "img": "/cs/uploads/202403/phpukcgsn_split_insurge_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "insurge"
   },
   {
-    "slug": "moe",
-    "href": "/moe",
+    "slug": "moe-cheats",
+    "href": "/moe-cheats",
     "name": "Moe",
     "img": "/cs/uploads/202403/phpvduniv_split_moe_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "moe"
   },
   {
-    "slug": "six-day-ful",
-    "href": "/six-day-ful",
+    "slug": "six-day-ful-cheats",
+    "href": "/six-day-ful-cheats",
     "name": "Six Days in Fallujah",
     "img": "/cs/uploads/202404/php8sestf_split_six_day_ful_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "six-day-ful"
   },
   {
-    "slug": "tptr",
-    "href": "/tptr",
+    "slug": "tptr-cheats",
+    "href": "/tptr-cheats",
     "name": "Teamfight Tactics",
     "img": "/cs/uploads/202404/phped53u3_split_tptr_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "tptr"
   },
   {
-    "slug": "atlas",
-    "href": "/atlas",
+    "slug": "atlas-cheats",
+    "href": "/atlas-cheats",
     "name": "Atlas",
     "img": "/cs/uploads/202404/phpl8tn9d_split_atlas_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "atlas"
   },
   {
-    "slug": "isle",
-    "href": "/isle",
+    "slug": "isle-cheats",
+    "href": "/isle-cheats",
     "name": "Isle",
     "img": "/cs/uploads/202404/phpwwouuv_split_isle_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "isle"
   },
   {
-    "slug": "conan",
-    "href": "/conan",
+    "slug": "conan-cheats",
+    "href": "/conan-cheats",
     "name": "Conan",
     "img": "/cs/uploads/202404/phpwyc3bn_split_conan_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "conan"
   },
   {
-    "slug": "wunthering",
-    "href": "/wunthering",
+    "slug": "wunthering-cheats",
+    "href": "/wunthering-cheats",
     "name": "Wuthering Waves",
     "img": "/cs/uploads/202405/php2qaa9d_split_wunthering_w_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "wunthering"
   },
   {
-    "slug": "wot-blitz",
-    "href": "/wot-blitz",
+    "slug": "wot-blitz-cheats",
+    "href": "/wot-blitz-cheats",
     "name": "World of Tanks Blitz",
     "img": "/cs/uploads/202405/phpkt8mmk_split_wot_blitz_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "wot-blitz"
   },
   {
-    "slug": "gray-zone",
-    "href": "/gray-zone",
+    "slug": "gray-zone-cheats",
+    "href": "/gray-zone-cheats",
     "name": "Gray Zone",
     "img": "/cs/uploads/202405/phpqmglss_split_gray_zone_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "gray-zone"
   },
   {
-    "slug": "chess",
-    "href": "/chess",
+    "slug": "chess-cheats",
+    "href": "/chess-cheats",
     "name": "Chess",
     "img": "/cs/uploads/202405/phpyauzz2_split_chess_katalog_1.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "chess"
   },
   {
-    "slug": "gray-zone-warfare",
-    "href": "/gray-zone-warfare",
+    "slug": "gray-zone-warfare-cheats",
+    "href": "/gray-zone-warfare-cheats",
     "name": "Gray Zone Warfare",
     "img": "/cs/uploads/202406/php9gpvpu_split_kkfos_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "gray-zone-warfare"
   },
   {
-    "slug": "bodycam",
-    "href": "/bodycam",
+    "slug": "bodycam-cheats",
+    "href": "/bodycam-cheats",
     "name": "Bodycam",
     "img": "/cs/uploads/202406/phpasc04g_split_bodycam_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "bodycam"
   },
   {
-    "slug": "once-human",
-    "href": "/once-human",
+    "slug": "once-human-cheats",
+    "href": "/once-human-cheats",
     "name": "Once Human",
     "img": "/cs/uploads/202406/phpdyqm3l_split_once_humen_katalogn.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "once-human"
   },
   {
-    "slug": "l33t-ragemp",
-    "href": "/l33t-ragemp",
+    "slug": "l33t-ragemp-cheats",
+    "href": "/l33t-ragemp-cheats",
     "name": "Rage MP",
     "img": "/cs/uploads/202406/phpg0a1s2_split_l33t_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "l33t-ragemp"
   },
   {
-    "slug": "predecessor",
-    "href": "/predecessor",
+    "slug": "predecessor-cheats",
+    "href": "/predecessor-cheats",
     "name": "Predecessor",
     "img": "/cs/uploads/202406/phpwavqqx_split_predecessor_katalogh.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "predecessor"
   },
   {
-    "slug": "the-first-descendant",
-    "href": "/the-first-descendant",
+    "slug": "the-first-descendant-cheats",
+    "href": "/the-first-descendant-cheats",
     "name": "The First Descendant",
     "img": "/cs/uploads/202407/phpxg3qdp_split_tfd_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "the-first-descendant"
   },
   {
-    "slug": "zenless-zone-zero",
-    "href": "/zenless-zone-zero",
+    "slug": "zenless-zone-zero-cheats",
+    "href": "/zenless-zone-zero-cheats",
     "name": "Zenless Zone Zero",
     "img": "/cs/uploads/202407/phpys5xq0_split_zenless_zone_zero_katalog1.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "zenless-zone-zero"
   },
   {
-    "slug": "deadlock",
-    "href": "/deadlock",
+    "slug": "deadlock-cheats",
+    "href": "/deadlock-cheats",
     "name": "Deadlock",
     "img": "/cs/uploads/202408/phptsq9ok_split_deadlock_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "deadlock"
   },
   {
-    "slug": "sa-mp",
-    "href": "/sa-mp",
+    "slug": "sa-mp-cheats",
+    "href": "/sa-mp-cheats",
     "name": "SA-MP",
     "img": "/cs/uploads/202408/phpu46ji2_split_samp_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "sa-mp"
   },
   {
-    "slug": "duckside",
-    "href": "/duckside",
+    "slug": "duckside-cheats",
+    "href": "/duckside-cheats",
     "name": "Duckside",
     "img": "/cs/uploads/202410/php0cpa1e_split_duckside_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "duckside"
   },
   {
-    "slug": "snowbreak-containment-zone",
-    "href": "/snowbreak-containment-zone",
+    "slug": "snowbreak-containment-zone-cheats",
+    "href": "/snowbreak-containment-zone-cheats",
     "name": "Snowbreak: Containment Zone",
     "img": "/cs/uploads/202410/php2htyon_split_snowbreak_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "snowbreak-containment-zone"
   },
   {
-    "slug": "level-zero",
-    "href": "/level-zero",
+    "slug": "level-zero-cheats",
+    "href": "/level-zero-cheats",
     "name": "Level Zero",
     "img": "/cs/uploads/202410/phpcgv1cq_split_level_zero_ext_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "level-zero"
   },
   {
-    "slug": "off-the-grid",
-    "href": "/off-the-grid",
+    "slug": "off-the-grid-cheats",
+    "href": "/off-the-grid-cheats",
     "name": "Off the Grid",
     "img": "/cs/uploads/202410/phpchz5bw_split_off_the_grid_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "off-the-grid"
   },
   {
-    "slug": "black-desert-mobile",
-    "href": "/black-desert-mobile",
+    "slug": "black-desert-mobile-cheats",
+    "href": "/black-desert-mobile-cheats",
     "name": "Black Desert Mobile",
     "img": "/cs/uploads/202410/phphd96eq_split_blaack_desert_mob_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "black-desert-mobile"
   },
   {
-    "slug": "diablo-iv",
-    "href": "/diablo-iv",
+    "slug": "diablo-iv-cheats",
+    "href": "/diablo-iv-cheats",
     "name": "Diablo IV",
     "img": "/cs/uploads/202410/phpk3lt16_split_diablo_4_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "diablo-iv"
   },
   {
-    "slug": "tarisland",
-    "href": "/tarisland",
+    "slug": "tarisland-cheats",
+    "href": "/tarisland-cheats",
     "name": "Tarisland",
     "img": "/cs/uploads/202410/phpshkugi_split_tarisland_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "tarisland"
   },
   {
-    "slug": "ea-sports-fc",
-    "href": "/ea-sports-fc",
+    "slug": "ea-sports-fc-cheats",
+    "href": "/ea-sports-fc-cheats",
     "name": "EA Sports FC",
     "img": "/cs/uploads/202410/phpvernbu_split_ea_fc_all_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "ea-sports-fc"
   },
   {
-    "slug": "honor-of-kings",
-    "href": "/honor-of-kings",
+    "slug": "honor-of-kings-cheats",
+    "href": "/honor-of-kings-cheats",
     "name": "Honor of Kings",
     "img": "/cs/uploads/202410/phpwdcazd_split_honor_of_king_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "honor-of-kings"
   },
   {
-    "slug": "maplestory-m",
-    "href": "/maplestory-m",
+    "slug": "maplestory-m-cheats",
+    "href": "/maplestory-m-cheats",
     "name": "MapleStory M",
     "img": "/cs/uploads/202410/phpzqy4ix_split_maplestorym_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "maplestory-m"
   },
   {
-    "slug": "marvel-rivals",
-    "href": "/marvel-rivals",
+    "slug": "marvel-rivals-cheats",
+    "href": "/marvel-rivals-cheats",
     "name": "Marvel Rivals",
     "img": "/cs/uploads/202412/phpxtb9jl_split_marverl_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "marvel-rivals"
   },
   {
-    "slug": "left-4-dead-2",
-    "href": "/left-4-dead-2",
+    "slug": "left-4-dead-2-cheats",
+    "href": "/left-4-dead-2-cheats",
     "name": "Left 4 Dead 2",
     "img": "/cs/uploads/202501/phpgufwbu_split_l4d2_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "left-4-dead-2"
   },
   {
-    "slug": "arma-reforger",
-    "href": "/arma-reforger",
+    "slug": "arma-reforger-cheats",
+    "href": "/arma-reforger-cheats",
     "name": "Arma Reforger",
     "img": "/cs/uploads/202502/phpkajsur_split_arma_refor_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "arma-reforger"
   },
   {
-    "slug": "cs-1-6",
-    "href": "/cs-1-6",
+    "slug": "cs-1-6-cheats",
+    "href": "/cs-1-6-cheats",
     "name": "CS 1.6",
     "img": "/cs/uploads/202502/phpombgvj_split_cs16_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "cs-1-6"
   },
   {
-    "slug": "fragpunk",
-    "href": "/fragpunk",
+    "slug": "fragpunk-cheats",
+    "href": "/fragpunk-cheats",
     "name": "FragPunk",
     "img": "/cs/uploads/202503/phpbemja4_split_fragpunk_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "fragpunk"
   },
   {
-    "slug": "point-blank",
-    "href": "/point-blank",
+    "slug": "point-blank-cheats",
+    "href": "/point-blank-cheats",
     "name": "Point Blank",
     "img": "/cs/uploads/202503/phpisowsd_split_point_blank_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "point-blank"
   },
   {
-    "slug": "path-of-exile-2",
-    "href": "/path-of-exile-2",
+    "slug": "path-of-exile-2-cheats",
+    "href": "/path-of-exile-2-cheats",
     "name": "Path of Exile 2",
     "img": "/cs/uploads/202504/phpimmoeq_split_poe2_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "path-of-exile-2"
   },
   {
-    "slug": "last-epoch",
-    "href": "/last-epoch",
+    "slug": "last-epoch-cheats",
+    "href": "/last-epoch-cheats",
     "name": "Last Epoch",
     "img": "/cs/uploads/202504/phpixge6t_split_laste[och_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "last-epoch"
   },
   {
-    "slug": "8-ball-pool",
-    "href": "/8-ball-pool",
+    "slug": "8-ball-pool-cheats",
+    "href": "/8-ball-pool-cheats",
     "name": "8 Ball Pool",
     "img": "/cs/uploads/202504/phpufuo3j_split_8ball_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "8-ball-pool"
   },
   {
-    "slug": "free-fire",
-    "href": "/free-fire",
+    "slug": "free-fire-cheats",
+    "href": "/free-fire-cheats",
     "name": "Free Fire",
     "img": "/cs/uploads/202505/phprp9q7t_split_freefire_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "free-fire"
   },
   {
-    "slug": "arc-raiders",
-    "href": "/arc-raiders",
+    "slug": "arc-raiders-cheats",
+    "href": "/arc-raiders-cheats",
     "name": "ARC Raiders",
     "img": "/cs/uploads/202505/phpu4fwcl_split_arcraiders_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "arc-raiders"
   },
   {
-    "slug": "etheria-restart",
-    "href": "/etheria-restart",
+    "slug": "etheria-restart-cheats",
+    "href": "/etheria-restart-cheats",
     "name": "Etheria Restart",
     "img": "/cs/uploads/202506/php4a5zno_split_etheria_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "etheria-restart"
   },
   {
-    "slug": "foxhole",
-    "href": "/foxhole",
+    "slug": "foxhole-cheats",
+    "href": "/foxhole-cheats",
     "name": "Foxhole",
     "img": "/cs/uploads/202506/phpacfb1w_split_foxhole_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "foxhole"
   },
   {
-    "slug": "steel-hunters",
-    "href": "/steel-hunters",
+    "slug": "steel-hunters-cheats",
+    "href": "/steel-hunters-cheats",
     "name": "Steel Hunters",
     "img": "/cs/uploads/202506/phpfjza3y_split_steel_hunters_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "steel-hunters"
   },
   {
-    "slug": "rematch",
-    "href": "/rematch",
+    "slug": "rematch-cheats",
+    "href": "/rematch-cheats",
     "name": "Rematch",
     "img": "/cs/uploads/202506/phpkadakg_split_rematch_katalog.jpg",
-    "gif": ""
+    "gif": "",
+    "base_slug": "rematch"
   }
 ]
