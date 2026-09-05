@@ -171,10 +171,19 @@ const LEGACY = {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    const host = url.hostname.toLowerCase();
 
-    if (url.hostname === "www.getyourcheats.com") {
+    // Canonical host + HTTPS (fixes Seobility www/non-www + HTTPS redirect checks)
+    let needsCanonical = false;
+    if (host === "www.getyourcheats.com") {
       url.hostname = "getyourcheats.com";
+      needsCanonical = true;
+    }
+    if (url.protocol === "http:") {
       url.protocol = "https:";
+      needsCanonical = true;
+    }
+    if (needsCanonical) {
       return Response.redirect(url.toString(), 301);
     }
 
@@ -187,6 +196,8 @@ export default {
       null;
     if (legacy) {
       url.pathname = legacy;
+      url.protocol = "https:";
+      url.hostname = "getyourcheats.com";
       return Response.redirect(url.toString(), 301);
     }
 
@@ -197,10 +208,9 @@ export default {
     }
 
     const headers = new Headers(response.headers);
-    if (!/charset=/i.test(type)) {
-      headers.set("Content-Type", "text/html; charset=utf-8");
-    }
+    headers.set("Content-Type", "text/html; charset=utf-8");
     headers.set("X-Content-Type-Options", "nosniff");
+    headers.set("Strict-Transport-Security", "max-age=31536000; includeSubDomains; preload");
 
     return new Response(response.body, {
       status: response.status,
