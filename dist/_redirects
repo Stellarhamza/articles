@@ -1,6 +1,0 @@
-# Cloudflare / static host redirect hints (also enforced in worker.js)
-# www and http are canonicalized to https://getyourcheats.com/*
-
-https://www.getyourcheats.com/*  https://getyourcheats.com/:splat  301
-http://www.getyourcheats.com/*   https://getyourcheats.com/:splat  301
-http://getyourcheats.com/*       https://getyourcheats.com/:splat  301
