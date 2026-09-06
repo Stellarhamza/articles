@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /store/
+Disallow: /_source_backup/
+Disallow: /_cheatseller_source/
+Disallow: /agent-transcripts/
+
+Sitemap: https://getyourcheats.com/sitemap.xml

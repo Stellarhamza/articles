@@ -27,3 +27,5 @@ agent-transcripts/
 .dev.vars
 node_modules/
 wrangler-dist/
+package-lock.json
+

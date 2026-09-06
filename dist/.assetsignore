@@ -1,0 +1,7 @@
+.git
+.git/
+.git/**
+**/.git/**
+**/*.pack
+node_modules/
+.wrangler/

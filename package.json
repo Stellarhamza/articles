@@ -1,0 +1,13 @@
+{
+  "name": "articles",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/prepare-dist.mjs",
+    "deploy": "npm run build && wrangler deploy",
+    "cf-deploy": "npm run deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.129.0"
+  }
+}
